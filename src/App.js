@@ -1,11 +1,54 @@
 import React, {Component} from 'react';
+import SiteInformacoesApi from './components/sites-informacoes-api';
+
+
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faStroopwafel } from '@fortawesome/free-solid-svg-icons'
+import { faStroopwafel, faEye, faEyeSlash, faUser, faUserSlash } from '@fortawesome/free-solid-svg-icons'
 import './App.css';
+import logoReclameAqui from './reclame-aqui-logo.8cfb52a1.svg';
 
 
 library.add(faStroopwafel);
+library.add(faEye);
+library.add(faEyeSlash);
+library.add(faUser);
+library.add(faUserSlash);
+// lightbulb
+// long-arrow-alt-down
+// long-arrow-alt-up
+// search-plus
+// sistrix
+// skull-crossbones
+// theater-masks
+// thumbs-down
+// times-circle
+// user
+// user-slash
+// user-alt
+// user-alt-slash
+// user-minus
+// angry
+
+class SitePanel extends  Component{
+    render(){
+        return (
+            <tr>
+                <td><FontAwesomeIcon icon="user-slash" className="site-status__offline" /></td>
+                <td>www.sitesquedeveevitar.com.br</td>
+                <td>Nome da empresa</td>
+                <td>0000000000000000000000</td>
+                <td>00/00/0000 </td>
+                <td>
+                    <a href="https://www.reclameaqui.com.br/busca/?q=americanas.com.br"
+                       target="_blank" rel="noopener noreferrer" >
+                        <img src={logoReclameAqui} width="50" alt="logo Reclame Aqui" />
+                    </a>
+                </td>
+            </tr>
+        )
+    }
+}
 
 
 
@@ -13,6 +56,7 @@ class App extends Component {
     render() {
         return (
             <React.Fragment>
+                <SiteInformacoesApi/>
                 <header className="container">
                     <div className="row align-items-center">
                         <div className="col-sm">
@@ -38,6 +82,13 @@ class App extends Component {
 
                         <p>O consumidor que tiver dúvidas pode procurar o Procon de sua cidade ou um dos canais de
                             atendimento da Fundação.</p>
+                        <div>Situação:
+                            <ul>
+                                <li><FontAwesomeIcon icon="user" className="site-status__online" />  No Ar  </li>
+                                <li><FontAwesomeIcon icon="user-slash" className="site-status__offline" /> Fora do Ar </li>
+                            </ul>
+
+                        </div>
                     </div>
                 </header>
 
@@ -52,45 +103,35 @@ class App extends Component {
                     <table  className="table">
                         <thead>
                             <tr>
-                                <th scope="col">Site    </th>
-                                <th scope="col">Empresa/Responsável  </th>
-                                <th scope="col">CNPJ/CPF </th>
-                                <th scope="col">Inclusão</th>
-                                <th scope="col">Situação* </th>
+                                <th scope="col-1"></th>
+                                <th scope="col-auto">Site    </th>
+                                <th scope="col-auto">Empresa/Responsável  </th>
+                                <th scope="col-2">CNPJ/CPF </th>
+                                <th scope="col-2">Inclusão</th>
+                                <th scope="col-2"></th>
                             </tr>
                         </thead>
                         <tbody>
-                        <tr>
-                            <th scope="row">www.sitesquedeveevitar.com.br</th>
-                            <td>Nome da empresa</td>
-                            <td>0000000000000000000000</td>
-                            <td>00/00/0000</td>
-                            <td><FontAwesomeIcon icon="stroopwafel" /></td>
-                        </tr>
-                        <tr>
-                            <th scope="row">www.sitesquedeveevitar.com.br</th>
-                            <td>Nome da empresa</td>
-                            <td>0000000000000000000000</td>
-                            <td>00/00/0000</td>
-                            <td>@ativo</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">www.sitesquedeveevitar.com.br</th>
-                            <td>Nome da empresa</td>
-                            <td>0000000000000000000000</td>
-                            <td>00/00/0000</td>
-                            <td>@ativo</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">www.sitesquedeveevitar.com.br</th>
-                            <td>Nome da empresa</td>
-                            <td>0000000000000000000000</td>
-                            <td>00/00/0000</td>
-                            <td>@ativo</td>
-                        </tr>
+
+                        <SitePanel/>
+                        <SitePanel/>
+                        <SitePanel/>
+                        <SitePanel/>
+                        <SitePanel/>
+                        <SitePanel/>
+                        <SitePanel/>
+
                         </tbody>
                     </table>
                 </section>
+
+
+
+
+
+
+
+
                 <footer></footer>
             </React.Fragment>
         );

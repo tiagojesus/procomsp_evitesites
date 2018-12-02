@@ -22,6 +22,14 @@
   color: #61dafb;
 }
 
+.site-status__offline{
+  color: #ef706d;
+}
+
+.site-status__online{
+  color: #a00002;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
