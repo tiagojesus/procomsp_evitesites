@@ -26,7 +26,7 @@ class App extends Component {
     render() {
         return (
             <React.Fragment>
-                <header className="container">
+                <header className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm">
                             <a href="http://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
@@ -53,7 +53,7 @@ class App extends Component {
                             atendimento da Fundação.</p>
                         <div>Situação:
                             <ul>
-                                <li><SiteStatus status="1" />  No Ar  </li>
+                                <li><SiteStatus status="1" /> No Ar  </li>
                                 <li><SiteStatus status="0"/> Fora do Ar </li>
                             </ul>
 
@@ -65,7 +65,7 @@ class App extends Component {
                 <nav></nav>
 
 
-                <section className="App container mt-3">
+                <section className="App container-fluid mt-3">
                     <header>
                         <h1>Evite estes sites</h1>
                     </header>

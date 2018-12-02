@@ -10,7 +10,11 @@ library.add(faUserSlash);
 class SiteStatus extends Component{
     render(){
         let icon = this.props.status==="1"? "user": "user-slash";
-        let style = this.props.status==="1"? "site-status__online": "site-status__offline";
+        let style = this.props.status==="1"? "site--status__online": "site--status__offline";
+
+        if(this.props.className) {
+            style += " " + this.props.className;
+        }
 
         return (
             <FontAwesomeIcon icon={icon} className={style} />

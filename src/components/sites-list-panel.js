@@ -11,19 +11,27 @@ class SitePanel extends  Component{
 
 
         return (
-            <tr>
-                <td><SiteStatus status={this.props.site.situacao}/></td>
-                <td>{this.props.site.url}</td>
-                <td>{this.props.site.empresa}</td>
-                <td>{this.props.site.cnpj_cpf}</td>
-                <td>{this.props.site.data_inclusao}</td>
-                <td>
-                    <a href={"https://www.reclameaqui.com.br/busca/?q="+this.props.site.url}
-                       target="_blank" rel="noopener noreferrer" >
-                        <img src={logoReclameAqui} width="50" alt="logo Reclame Aqui" />
-                    </a>
-                </td>
-            </tr>
+            <li  class="list-group-item list-group-item-action flex-column align-items-start site">
+                <div className="d-flex flex-nowrap  align-items-stretch w-100 justify-content-start align-items-center">
+                    <div className="p-1">
+                        <SiteStatus status={this.props.site.situacao}/>
+                    </div>
+                    <div className="p-1 flex-fill">
+                        {this.props.site.empresa}
+                    </div>
+                    <span className="p-1 d-none d-lg-block d-xl-none">{this.props.site.cnpj_cpf}</span>
+                    <div className="p-1 w-30" style={{'color':"#f00"}}>{this.props.site.url}</div>
+
+                    <div className="p-1 d-none d-sm-block">{this.props.site.data_inclusao}</div>
+
+                    <div className="p-1 d-none d-sm-block">
+                        <a href={"https://www.reclameaqui.com.br/busca/?q="+this.props.site.url}
+                           target="_blank" rel="noopener noreferrer" >
+                            <img src={logoReclameAqui} width="70" alt="logo Reclame Aqui" />
+                        </a>
+                    </div>
+                </div>
+            </li>
         )
     }
 }
@@ -39,23 +47,9 @@ class SiteListPanel extends Component{
 
 
         return (
-            <table  className="table">
-                <thead>
-                <tr>
-                    <th scope="col-1">.</th>
-                    <th scope="col-auto">Site    </th>
-                    <th scope="col-auto">Empresa/Responsável  </th>
-                    <th scope="col-2">CNPJ/CPF </th>
-                    <th scope="col-2">Inclusão</th>
-                    <th scope="col-2">.</th>
-                </tr>
-                </thead>
-                <tbody>
-
+            <ul className="list-group">
                 {itens}
-
-                </tbody>
-            </table>
+            </ul>
 
         )
     }

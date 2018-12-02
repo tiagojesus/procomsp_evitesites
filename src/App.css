@@ -22,11 +22,20 @@
   color: #61dafb;
 }
 
-.site-status__offline{
+.site{
+  text-align: left;
+  font-size: 0.8rem;
+}
+
+.site--status__offline{
   color: #ef706d;
 }
 
-.site-status__online{
+.site--status__online{
+  color: #a00002;
+}
+
+site--url{
   color: #a00002;
 }
 
