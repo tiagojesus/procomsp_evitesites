@@ -1,49 +1,17 @@
 import React, {Component} from 'react';
 import logoReclameAqui from "../reclame-aqui-logo.8cfb52a1.svg";
 import SiteStatus from "./site-status";
+import CpfCnpjFormatador from './cpf-cnpj-formatador';
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faChevronDown, faChevronUp,faChevronCircleDown, faChevronCircleUp, faCircle } from '@fortawesome/free-solid-svg-icons'
 
-class CpfCnpj extends Component {
-    formatar(numeroDocumento) {
-        let tipo = null;
-        //Remove tudo o que não é dígito
-        numeroDocumento = numeroDocumento.replace(/\D/g, "");
-
-        if (numeroDocumento.length <= 11) { //CPF
-            tipo = "CPF";
-            //Coloca um ponto entre o terceiro e o quarto dígitos
-            numeroDocumento = numeroDocumento.replace(/(\d{3})(\d)/, "$1.$2");
-            //Coloca um ponto entre o terceiro e o quarto dígitos
-            //de novo (para o segundo bloco de números)
-            numeroDocumento = numeroDocumento.replace(/(\d{3})(\d)/, "$1.$2");
-            //Coloca um hífen entre o terceiro e o quarto dígitos
-            numeroDocumento = numeroDocumento.replace(/(\d{3})(\d{1,2})$/, "$1-$2");
-        } else { //CNPJ
-            tipo = "CNPJ";
-            //Coloca ponto entre o segundo e o terceiro dígitos
-            numeroDocumento = numeroDocumento.replace(/^(\d{2})(\d)/, "$1.$2");
-            //Coloca ponto entre o quinto e o sexto dígitos
-            numeroDocumento = numeroDocumento.replace(/^(\d{2})\.(\d{3})(\d)/, "$1.$2.$3");
-            //Coloca uma barra entre o oitavo e o nono dígitos
-            numeroDocumento = numeroDocumento.replace(/\.(\d{3})(\d)/, ".$1/$2");
-            //Coloca um hífen depois do bloco de quatro dígitos
-            numeroDocumento = numeroDocumento.replace(/(\d{4})(\d)/, "$1-$2");
-        }
-
-        return  (<span><b>{tipo}:</b> {numeroDocumento}</span>);
-    }
-
-
-    render() {
-        var numero = this.props.numero;
-
-        if (numero) {
-            numero = numero.toString().trim();
-            return this.formatar(numero);
-        }
-        return null;
-    }
-}
+library.add(faChevronDown);
+library.add(faChevronUp);
+library.add(faCircle);
+library.add(faChevronCircleUp);
+library.add(faChevronCircleDown)
 
 
 class SitePanel extends Component {
@@ -53,15 +21,15 @@ class SitePanel extends Component {
         return (
             <li class="list-group-item list-group-item-action flex-column align-items-start site">
                 <div className="d-flex flex-nowrap  align-items-stretch w-100 justify-content-start align-items-center">
-                    <div className="p-1">
+                    <div className="p-1" style={{"width":"30px"}}>
                         <SiteStatus status={this.props.site.situacao}/>
                     </div>
-                    <div className="p-1 flex-fill">
-                        {this.props.site.empresa}
+                    <div className="p-1 d-none d-sm-none d-md-block" style={{"width":"180px"}}>
+                        <CpfCnpjFormatador numero={this.props.site.cnpj_cpf}/>
                     </div>
-                    <span className="p-1 d-none d-sm-none d-md-block">
-                        <CpfCnpj numero={this.props.site.cnpj_cpf}/>
-                    </span>
+                    <div className="p-1 flex-fill">
+                        <b>{this.props.site.empresa}</b>
+                    </div>
                     <div className="p-1 w-30" style={{'color': "#f00"}}>{this.props.site.url}</div>
 
                     <div className="p-1 d-none d-sm-none d-md-block">{this.props.site.data_inclusao}</div>
@@ -94,18 +62,26 @@ class SiteListPanel extends Component {
                     <div
                         className="d-flex flex-nowrap  align-items-stretch w-100 justify-content-start align-items-center">
                         <div className="p-1">
-                            [ Status ]
-                        </div>
-                        <div className="p-1 flex-fill">
-                            [ Empresa ]
+                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
+                                <FontAwesomeIcon icon="chevron-circle-up" className="float-right"/> Status</button>
                         </div>
                         <span className="p-1 d-none d-sm-none d-md-block">
-                            [ Documento ]
+                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
+                                <FontAwesomeIcon icon="circle" className="float-right"/>Documento</button>
                         </span>
-                        <div className="p-1 w-30">[ Site ]</div>
+                        <div className="p-1 flex-fill">
+                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
+                                <FontAwesomeIcon icon="circle" className="float-right"/>Empresa</button>
+                        </div>
+                        <div className="p-1 w-30">
+                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
+                                <FontAwesomeIcon icon="circle" className="float-right"/>Site</button>
+                        </div>
 
-                        <div className="p-1 d-none d-sm-none d-md-block">[ Data Inclusao ]</div>
-                        <div className="p-1 d-none d-sm-block">[ Reclame Aqui ]</div>
+                        <div className="p-1 d-none d-sm-none d-md-block">
+                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
+                                <FontAwesomeIcon icon="circle" className="float-right"/>Data Inclusão</button>
+                         </div>
                     </div>
                 </li>
 

@@ -35,8 +35,13 @@
   color: #a00002;
 }
 
-site--url{
+.site--url{
   color: #a00002;
+}
+
+.site-lista--button{
+  width: 120px;
+  font-size: 0.7rem;
 }
 
 @keyframes App-logo-spin {
