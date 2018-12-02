@@ -1,5 +1,13 @@
 import React, {Component} from 'react';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStroopwafel } from '@fortawesome/free-solid-svg-icons'
 import './App.css';
+
+
+library.add(faStroopwafel);
+
+
 
 class App extends Component {
     render() {
@@ -41,7 +49,7 @@ class App extends Component {
                     <header>
                         <h1>Evite estes sites</h1>
                     </header>
-                    <table  class="table">
+                    <table  className="table">
                         <thead>
                             <tr>
                                 <th scope="col">Site    </th>
@@ -57,7 +65,7 @@ class App extends Component {
                             <td>Nome da empresa</td>
                             <td>0000000000000000000000</td>
                             <td>00/00/0000</td>
-                            <td>@ativo</td>
+                            <td><FontAwesomeIcon icon="stroopwafel" /></td>
                         </tr>
                         <tr>
                             <th scope="row">www.sitesquedeveevitar.com.br</th>
