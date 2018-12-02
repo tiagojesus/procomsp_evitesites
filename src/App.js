@@ -1,56 +1,9 @@
 import React, {Component} from 'react';
 import SiteInformacoesApi from './components/sites-informacoes-api';
+import SiteListPanel from './components/sites-list-panel';
+import SiteStatus from "./components/site-status";
 
-
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faStroopwafel, faEye, faEyeSlash, faUser, faUserSlash } from '@fortawesome/free-solid-svg-icons'
 import './App.css';
-import logoReclameAqui from './reclame-aqui-logo.8cfb52a1.svg';
-
-
-library.add(faStroopwafel);
-library.add(faEye);
-library.add(faEyeSlash);
-library.add(faUser);
-library.add(faUserSlash);
-// lightbulb
-// long-arrow-alt-down
-// long-arrow-alt-up
-// search-plus
-// sistrix
-// skull-crossbones
-// theater-masks
-// thumbs-down
-// times-circle
-// user
-// user-slash
-// user-alt
-// user-alt-slash
-// user-minus
-// angry
-
-class SitePanel extends  Component{
-    render(){
-        return (
-            <tr>
-                <td><FontAwesomeIcon icon="user-slash" className="site-status__offline" /></td>
-                <td>www.sitesquedeveevitar.com.br</td>
-                <td>Nome da empresa</td>
-                <td>0000000000000000000000</td>
-                <td>00/00/0000 </td>
-                <td>
-                    <a href="https://www.reclameaqui.com.br/busca/?q=americanas.com.br"
-                       target="_blank" rel="noopener noreferrer" >
-                        <img src={logoReclameAqui} width="50" alt="logo Reclame Aqui" />
-                    </a>
-                </td>
-            </tr>
-        )
-    }
-}
-
-
 
 class App extends Component {
     render() {
@@ -84,8 +37,8 @@ class App extends Component {
                             atendimento da Fundação.</p>
                         <div>Situação:
                             <ul>
-                                <li><FontAwesomeIcon icon="user" className="site-status__online" />  No Ar  </li>
-                                <li><FontAwesomeIcon icon="user-slash" className="site-status__offline" /> Fora do Ar </li>
+                                <li><SiteStatus status="1" />  No Ar  </li>
+                                <li><SiteStatus status="0"/> Fora do Ar </li>
                             </ul>
 
                         </div>
@@ -100,37 +53,9 @@ class App extends Component {
                     <header>
                         <h1>Evite estes sites</h1>
                     </header>
-                    <table  className="table">
-                        <thead>
-                            <tr>
-                                <th scope="col-1"></th>
-                                <th scope="col-auto">Site    </th>
-                                <th scope="col-auto">Empresa/Responsável  </th>
-                                <th scope="col-2">CNPJ/CPF </th>
-                                <th scope="col-2">Inclusão</th>
-                                <th scope="col-2"></th>
-                            </tr>
-                        </thead>
-                        <tbody>
 
-                        <SitePanel/>
-                        <SitePanel/>
-                        <SitePanel/>
-                        <SitePanel/>
-                        <SitePanel/>
-                        <SitePanel/>
-                        <SitePanel/>
-
-                        </tbody>
-                    </table>
+                    <SiteListPanel/>
                 </section>
-
-
-
-
-
-
-
 
                 <footer></footer>
             </React.Fragment>
