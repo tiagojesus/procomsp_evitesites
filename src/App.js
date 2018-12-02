@@ -6,10 +6,26 @@ import SiteStatus from "./components/site-status";
 import './App.css';
 
 class App extends Component {
+    constructor(props){
+        super(props);
+        this.api = new SiteInformacoesApi();
+        this.state = {'sites':[]};
+
+        this.handleSitesChange = (info) => {
+            this.setState({'sites': info});
+        }
+
+        this.componentDidMount = this.componentDidMount.bind(this);
+    }
+
+    componentDidMount(){
+        this.api.loadListaDeSites().then(sites => this.setState({'sites': sites}))
+    }
+
+
     render() {
         return (
             <React.Fragment>
-                <SiteInformacoesApi/>
                 <header className="container">
                     <div className="row align-items-center">
                         <div className="col-sm">
@@ -54,7 +70,7 @@ class App extends Component {
                         <h1>Evite estes sites</h1>
                     </header>
 
-                    <SiteListPanel/>
+                    <SiteListPanel sites={this.state.sites}/>
                 </section>
 
                 <footer></footer>

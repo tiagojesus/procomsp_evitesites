@@ -5,17 +5,20 @@ import SiteStatus from "./site-status";
 
 class SitePanel extends  Component{
     render(){
-        if(!this.props.site) return "";
+        if(!this.props.site) return null;
+
+        console.log('SitePanel', this.props.site);
+
 
         return (
             <tr>
-                <td><SiteStatus status={this.props.site.status}/></td>
-                <td>www.sitesquedeveevitar.com.br</td>
-                <td>Nome da empresa</td>
-                <td>0000000000000000000000</td>
-                <td>00/00/0000 </td>
+                <td><SiteStatus status={this.props.site.situacao}/></td>
+                <td>{this.props.site.url}</td>
+                <td>{this.props.site.empresa}</td>
+                <td>{this.props.site.cnpj_cpf}</td>
+                <td>{this.props.site.data_inclusao}</td>
                 <td>
-                    <a href="https://www.reclameaqui.com.br/busca/?q=americanas.com.br"
+                    <a href={"https://www.reclameaqui.com.br/busca/?q="+this.props.site.url}
                        target="_blank" rel="noopener noreferrer" >
                         <img src={logoReclameAqui} width="50" alt="logo Reclame Aqui" />
                     </a>
@@ -27,6 +30,14 @@ class SitePanel extends  Component{
 
 class SiteListPanel extends Component{
     render(){
+
+        var itens = [];
+
+        if(Array.isArray(this.props.sites)){
+            itens = this.props.sites.map((item) =><SitePanel key={item.id} site={item}/> );
+        }
+
+
         return (
             <table  className="table">
                 <thead>
@@ -41,13 +52,7 @@ class SiteListPanel extends Component{
                 </thead>
                 <tbody>
 
-                <SitePanel site={{'status':'1'}}/>
-                <SitePanel site={{'status':'0'}}/>
-                <SitePanel site={{'status':'1'}}/>
-                <SitePanel site={{'status':'1'}}/>
-                <SitePanel site={{'status':'1'}}/>
-                <SitePanel site={{'status':'1'}}/>
-                <SitePanel/>
+                {itens}
 
                 </tbody>
             </table>
