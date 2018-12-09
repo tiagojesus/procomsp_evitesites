@@ -13,7 +13,6 @@ class App extends Component {
             'ordenacaoCampo': '',
             'ordenacaoDirecao': 0
         };
-
     }
 
     componentDidMount = () =>{
@@ -30,24 +29,71 @@ class App extends Component {
     }
 
     handleOnClick = (campo) => {
-        if(campo === this.state.ordenacaoCampo){
-            this.setState({'ordenacaoDirecao': -1 * this.state.ordenacaoDirecao});
+        const {ordenacaoCampo, ordenacaoDirecao, sites} = this.state;
+        let state = {};
+
+        if(campo === ordenacaoCampo){
+            state = {
+                'ordenacaoCampo': campo,
+                'ordenacaoDirecao': -1 * ordenacaoDirecao};
         }else{
-            this.setState({
+            state = {
                 'ordenacaoCampo': campo,
                 'ordenacaoDirecao': 1
-            });
-
+            };
         }
+
+        let sitesOrdenados = sites.sort((a, b) => {
+           let o1 = a[campo];//(a[ordenacaoCampo] + "").toUpperCase();
+           let o2 = b[campo];//(b[ordenacaoCampo] + "").toUpperCase();
+
+            if(o1 instanceof Date && o2 instanceof Date){
+                o1 = a[campo].getTime();
+                o2 = b[campo].getTime();
+            }else{
+                o1 = (a[campo] + "").toUpperCase();
+                o2 = (b[campo] + "").toUpperCase();
+            }
+
+            if(o1 > o2) {
+                return 1 * state.ordenacaoDirecao;
+            } else if(o1 < o2) {
+                return -1 * state.ordenacaoDirecao;
+            }
+            return 0;
+        });
+        state.sites = sitesOrdenados
+
+        this.setState(state);
+        console.log("App::handleOnClick()", state);
     }
 
 
 
     render() {
+        console.log('INFO: APP::render()', this.state);
+
         return (
             <React.Fragment>
                 <header className="container-fluid">
-
+                    <div className="row align-items-center">
+                        <div className="col-sm">
+                            <a href="http://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+                               target="_blank" rel="noopener noreferrer" >
+                                <img src="http://sistemas.procon.sp.gov.br/evitesite/images/procon_transparente.gif"
+                                     alt="Procom SP"/>
+                            </a>
+                        </div>
+                        <div className="col-sm-8 text-center">
+                            <h4>Fundação de Proteção e Defesa do Consumidor
+                            </h4>
+                            <p>Evite esses Sites</p>
+                        </div>
+                        <div className="col-sm">
+                            <img src="http://sistemas.procon.sp.gov.br/evitesite/images/99.gif"
+                                 alt="Procom SP"/>
+                        </div>
+                    </div>
                     <div className="border border-dark rounded p-3 mt-2">
                         <p>Lista de sites que devem ser evitados, pois tiveram reclamações de consumidores registrada
                             no Procon-SP, foram notificados, não responderam ou não foram encontrados.</p>
@@ -73,7 +119,7 @@ class App extends Component {
                         <h1>Evite estes sites</h1>
                     </header>
 
-                    <SiteListPanel sites={this.state.sites}
+                    <SiteListPanel sites={this.state.sites }
                                    ordenacaoCampo={this.state.ordenacaoCampo}
                                    ordenacaoDirecao={this.state.ordenacaoDirecao}
                                    onClick={this.handleOnClick}
