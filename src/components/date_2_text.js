@@ -7,8 +7,6 @@ export default class Date2Text extends Component{
         if( date && date instanceof Date){
             valor = date.toLocaleDateString();
         }
-
-
         return valor;
     }
 }

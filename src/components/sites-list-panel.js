@@ -5,8 +5,14 @@ import CpfCnpjFormatador from './cpf-cnpj-formatador';
 import SiteTituloButton from './site_titulo_button';
 import Date2Text from './date_2_text';
 
-import { library } from '@fortawesome/fontawesome-svg-core'
-import { faChevronDown, faChevronUp,faChevronCircleDown, faChevronCircleUp, faCircle } from '@fortawesome/free-solid-svg-icons'
+import {library} from '@fortawesome/fontawesome-svg-core'
+import {
+    faChevronDown,
+    faChevronUp,
+    faChevronCircleDown,
+    faChevronCircleUp,
+    faCircle
+} from '@fortawesome/free-solid-svg-icons'
 
 library.add(faChevronDown);
 library.add(faChevronUp);
@@ -17,16 +23,15 @@ library.add(faChevronCircleDown)
 
 class SitePanel extends Component {
     render() {
-        //console.log('INFO: SitePanel::render()',this.props);
         if (!this.props.site) return null;
 
         return (
             <li className="list-group-item list-group-item-action flex-column align-items-start site">
                 <div className="d-flex flex-nowrap  align-items-stretch w-100 justify-content-start align-items-center">
-                    <div className="p-1" style={{"width":"30px"}}>
+                    <div className="p-1" style={{"width": "30px"}}>
                         <SiteStatus status={this.props.site.situacao}/>
                     </div>
-                    <div className="p-1 d-none d-sm-none d-md-block" style={{"width":"180px"}}>
+                    <div className="p-1 d-none d-sm-none d-md-block" style={{"width": "180px"}}>
                         <CpfCnpjFormatador numero={this.props.site.cnpj_cpf}/>
                     </div>
                     <div className="p-1 flex-fill">
@@ -35,7 +40,7 @@ class SitePanel extends Component {
                     <div className="p-1 w-30" style={{'color': "#f00"}}>{this.props.site.url}</div>
 
                     <div className="p-1 d-none d-sm-none d-md-block">
-                        <Date2Text  date={this.props.site.data_inclusao}/>
+                        <Date2Text date={this.props.site.data_inclusao}/>
                     </div>
 
                     <div className="p-1 d-none d-sm-block">
@@ -52,11 +57,10 @@ class SitePanel extends Component {
 
 class SiteListPanel extends Component {
     handleOnClick = (valor) => {
-        if(this.props.onClick) return () =>  this.props.onClick(valor);
+        if (this.props.onClick) return () => this.props.onClick(valor);
     }
 
     render() {
-        console.log('INFO: SiteListPanel::render()', this.props);
         const {ordenacaoDirecao, ordenacaoCampo} = this.props;
 
         var itens = [];
@@ -66,7 +70,7 @@ class SiteListPanel extends Component {
         }
 
         let configDirecao = (campo) => {
-            return campo === ordenacaoCampo? ordenacaoDirecao : 0;
+            return campo === ordenacaoCampo ? ordenacaoDirecao : 0;
         };
 
 
@@ -78,30 +82,30 @@ class SiteListPanel extends Component {
                         <div className="p-1">
                             <SiteTituloButton descricao="Status" campo="situacao"
                                               direcao={configDirecao("situacao")}
-                                              onClick={  this.handleOnClick("situacao") }/>
+                                              onClick={this.handleOnClick("situacao")}/>
                         </div>
                         <div className="p-1 d-none d-sm-none d-md-block">
                             <SiteTituloButton descricao="Documento" campo="cnpj_cpf"
                                               direcao={configDirecao("cnpj_cpf")}
-                                              onClick={  this.handleOnClick("cnpj_cpf") }/>
+                                              onClick={this.handleOnClick("cnpj_cpf")}/>
                         </div>
                         <div className="p-1 flex-fill">
                             <SiteTituloButton descricao="Empresa" campo="empresa"
                                               direcao={configDirecao("empresa")}
-                                              onClick={  this.handleOnClick("empresa") }/>
+                                              onClick={this.handleOnClick("empresa")}/>
                         </div>
                         <div className="p-1 w-30">
                             <SiteTituloButton descricao="Site" campo="url"
                                               direcao={configDirecao("url")}
-                                              onClick={  this.handleOnClick("url") }/>
+                                              onClick={this.handleOnClick("url")}/>
                         </div>
 
                         <div className="p-1 d-none d-sm-none d-md-block">
                             <SiteTituloButton descricao="Data Inclusão" campo="data_inclusao"
                                               direcao={configDirecao("data_inclusao")}
-                                              onClick={  this.handleOnClick("data_inclusao") }/>
-                         </div>
-                        <div className="p-1 d-none d-sm-none d-md-block" style={{width:'75px'}}>
+                                              onClick={this.handleOnClick("data_inclusao")}/>
+                        </div>
+                        <div className="p-1 d-none d-sm-none d-md-block" style={{width: '75px'}}>
 
                         </div>
                     </div>
@@ -113,6 +117,5 @@ class SiteListPanel extends Component {
         )
     }
 }
-
 
 export default SiteListPanel;

@@ -28,7 +28,7 @@ class CpfCnpjFormatador extends Component {
             numeroDocumento = numeroDocumento.replace(/(\d{4})(\d)/, "$1-$2");
         }
 
-        return  (<span><b>{tipo}:</b> {numeroDocumento}</span>);
+        return (<span><b>{tipo}:</b> {numeroDocumento}</span>);
     }
 
 

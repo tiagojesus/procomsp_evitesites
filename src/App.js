@@ -5,17 +5,43 @@ import SiteStatus from "./components/site-status";
 
 import './App.css';
 
+
+function ordenaSites(sites, campo, ordenacaoDirecao) {
+    return sites.sort((a, b) => {
+        let o1 = a[campo];//(a[ordenacaoCampo] + "").toUpperCase();
+        let o2 = b[campo];//(b[ordenacaoCampo] + "").toUpperCase();
+
+        if (o1 instanceof Date && o2 instanceof Date) {
+            o1 = a[campo].getTime();
+            o2 = b[campo].getTime();
+        } else {
+            o1 = (a[campo] + "").toUpperCase();
+            o2 = (b[campo] + "").toUpperCase();
+        }
+
+        if (o1 > o2) {
+            return 1 * ordenacaoDirecao;
+        } else if (o1 < o2) {
+            return -1 * ordenacaoDirecao;
+        }
+        return 0;
+    });
+
+}
+
+
 class App extends Component {
-    constructor(props){
+    constructor(props) {
         super(props);
         this.api = new SiteInformacoesApi();
-        this.state = {'sites':[],
+        this.state = {
+            'sites': [],
             'ordenacaoCampo': '',
             'ordenacaoDirecao': 0
         };
     }
 
-    componentDidMount = () =>{
+    componentDidMount = () => {
         this.api.loadListaDeSites().then(sites => this.handleSitesChange(sites))
     }
 
@@ -32,54 +58,32 @@ class App extends Component {
         const {ordenacaoCampo, ordenacaoDirecao, sites} = this.state;
         let state = {};
 
-        if(campo === ordenacaoCampo){
+        if (campo === ordenacaoCampo) {
             state = {
                 'ordenacaoCampo': campo,
-                'ordenacaoDirecao': -1 * ordenacaoDirecao};
-        }else{
+                'ordenacaoDirecao': -1 * ordenacaoDirecao
+            };
+        } else {
             state = {
                 'ordenacaoCampo': campo,
                 'ordenacaoDirecao': 1
             };
         }
 
-        let sitesOrdenados = sites.sort((a, b) => {
-           let o1 = a[campo];//(a[ordenacaoCampo] + "").toUpperCase();
-           let o2 = b[campo];//(b[ordenacaoCampo] + "").toUpperCase();
-
-            if(o1 instanceof Date && o2 instanceof Date){
-                o1 = a[campo].getTime();
-                o2 = b[campo].getTime();
-            }else{
-                o1 = (a[campo] + "").toUpperCase();
-                o2 = (b[campo] + "").toUpperCase();
-            }
-
-            if(o1 > o2) {
-                return 1 * state.ordenacaoDirecao;
-            } else if(o1 < o2) {
-                return -1 * state.ordenacaoDirecao;
-            }
-            return 0;
-        });
-        state.sites = sitesOrdenados
+        state.sites = ordenaSites(sites, campo, state.ordenacaoDirecao);
 
         this.setState(state);
-        console.log("App::handleOnClick()", state);
     }
 
 
-
     render() {
-        console.log('INFO: APP::render()', this.state);
-
         return (
             <React.Fragment>
                 <header className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm">
                             <a href="http://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
-                               target="_blank" rel="noopener noreferrer" >
+                               target="_blank" rel="noopener noreferrer">
                                 <img src="http://sistemas.procon.sp.gov.br/evitesite/images/procon_transparente.gif"
                                      alt="Procom SP"/>
                             </a>
@@ -102,8 +106,8 @@ class App extends Component {
                             atendimento da Fundação.</p>
                         <div>Situação:
                             <ul>
-                                <li><SiteStatus status="1" /> No Ar  </li>
-                                <li><SiteStatus status="0"/> Fora do Ar </li>
+                                <li><SiteStatus status="1"/> No Ar</li>
+                                <li><SiteStatus status="0"/> Fora do Ar</li>
                             </ul>
 
                         </div>
@@ -119,11 +123,11 @@ class App extends Component {
                         <h1>Evite estes sites</h1>
                     </header>
 
-                    <SiteListPanel sites={this.state.sites }
+                    <SiteListPanel sites={this.state.sites}
                                    ordenacaoCampo={this.state.ordenacaoCampo}
                                    ordenacaoDirecao={this.state.ordenacaoDirecao}
                                    onClick={this.handleOnClick}
-                                />
+                    />
                 </section>
 
                 <footer></footer>
