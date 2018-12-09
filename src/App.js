@@ -9,42 +9,45 @@ class App extends Component {
     constructor(props){
         super(props);
         this.api = new SiteInformacoesApi();
-        this.state = {'sites':[]};
+        this.state = {'sites':[],
+            'ordenacaoCampo': '',
+            'ordenacaoDirecao': 0
+        };
 
-        this.handleSitesChange = (info) => {
-            this.setState({'sites': info});
+    }
+
+    componentDidMount = () =>{
+        this.api.loadListaDeSites().then(sites => this.handleSitesChange(sites))
+    }
+
+
+    handleSitesChange = (sites) => {
+        this.setState({
+            'sites': sites,
+            'ordenacaoCampo': '',
+            'ordenacaoDirecao': 0
+        });
+    }
+
+    handleOnClick = (campo) => {
+        if(campo === this.state.ordenacaoCampo){
+            this.setState({'ordenacaoDirecao': -1 * this.state.ordenacaoDirecao});
+        }else{
+            this.setState({
+                'ordenacaoCampo': campo,
+                'ordenacaoDirecao': 1
+            });
+
         }
-
-        this.componentDidMount = this.componentDidMount.bind(this);
     }
 
-    componentDidMount(){
-        this.api.loadListaDeSites().then(sites => this.setState({'sites': sites}))
-    }
 
 
     render() {
         return (
             <React.Fragment>
                 <header className="container-fluid">
-                    <div className="row align-items-center">
-                        <div className="col-sm">
-                            <a href="http://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
-                               target="_blank" rel="noopener noreferrer" >
-                                <img src="http://sistemas.procon.sp.gov.br/evitesite/images/procon_transparente.gif"
-                                    alt="Procom SP"/>
-                            </a>
-                        </div>
-                        <div className="col-sm-8 text-center">
-                           <h4>Fundação de Proteção e Defesa do Consumidor
-                           </h4>
-                            <p>Evite esses Sites</p>
-                        </div>
-                        <div className="col-sm">
-                            <img src="http://sistemas.procon.sp.gov.br/evitesite/images/99.gif"
-                                 alt="Procom SP"/>
-                        </div>
-                    </div>
+
                     <div className="border border-dark rounded p-3 mt-2">
                         <p>Lista de sites que devem ser evitados, pois tiveram reclamações de consumidores registrada
                             no Procon-SP, foram notificados, não responderam ou não foram encontrados.</p>
@@ -70,7 +73,11 @@ class App extends Component {
                         <h1>Evite estes sites</h1>
                     </header>
 
-                    <SiteListPanel sites={this.state.sites}/>
+                    <SiteListPanel sites={this.state.sites}
+                                   ordenacaoCampo={this.state.ordenacaoCampo}
+                                   ordenacaoDirecao={this.state.ordenacaoDirecao}
+                                   onClick={this.handleOnClick}
+                                />
                 </section>
 
                 <footer></footer>

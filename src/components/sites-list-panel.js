@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import logoReclameAqui from "../reclame-aqui-logo.8cfb52a1.svg";
 import SiteStatus from "./site-status";
 import CpfCnpjFormatador from './cpf-cnpj-formatador';
+import SiteTituloButton from './site_titulo_button';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -47,13 +48,22 @@ class SitePanel extends Component {
 }
 
 class SiteListPanel extends Component {
+    handleOnClick = (valor) => {
+        if(this.props.onClick) return () =>  this.props.onClick(valor);
+    }
+
     render() {
+        const {ordenacaoDirecao, ordenacaoCampo} = this.props;
 
         var itens = [];
 
         if (Array.isArray(this.props.sites)) {
             itens = this.props.sites.map((item) => <SitePanel key={item.id} site={item}/>);
         }
+
+        let configDirecao = (campo) => {
+            return campo === ordenacaoCampo? ordenacaoDirecao : 0;
+        };
 
 
         return (
@@ -62,25 +72,30 @@ class SiteListPanel extends Component {
                     <div
                         className="d-flex flex-nowrap  align-items-stretch w-100 justify-content-start align-items-center">
                         <div className="p-1">
-                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
-                                <FontAwesomeIcon icon="chevron-circle-up" className="float-right"/> Status</button>
+                            <SiteTituloButton descricao="Status" campo="status"
+                                              direcao={configDirecao("status")}
+                                              onClick={  this.handleOnClick("status") }/>
                         </div>
-                        <span className="p-1 d-none d-sm-none d-md-block">
-                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
-                                <FontAwesomeIcon icon="circle" className="float-right"/>Documento</button>
-                        </span>
+                        <div className="p-1 d-none d-sm-none d-md-block">
+                            <SiteTituloButton descricao="Documento" campo="cnpj_cpf"
+                                              direcao={configDirecao("cnpj_cpf")}
+                                              onClick={  this.handleOnClick("cnpj_cpf") }/>
+                        </div>
                         <div className="p-1 flex-fill">
-                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
-                                <FontAwesomeIcon icon="circle" className="float-right"/>Empresa</button>
+                            <SiteTituloButton descricao="Empresa" campo="empresa"
+                                              direcao={configDirecao("empresa")}
+                                              onClick={  this.handleOnClick("empresa") }/>
                         </div>
                         <div className="p-1 w-30">
-                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
-                                <FontAwesomeIcon icon="circle" className="float-right"/>Site</button>
+                            <SiteTituloButton descricao="Site" campo="site"
+                                              direcao={configDirecao("site")}
+                                              onClick={  this.handleOnClick("site") }/>
                         </div>
 
                         <div className="p-1 d-none d-sm-none d-md-block">
-                            <button type="button" className="btn btn-secondary btn-sm site-lista--button">
-                                <FontAwesomeIcon icon="circle" className="float-right"/>Data Inclusão</button>
+                            <SiteTituloButton descricao="Data Inclusão" campo="dataInclusao"
+                                              direcao={configDirecao("dataInclusao")}
+                                              onClick={  this.handleOnClick("dataInclusao") }/>
                          </div>
                     </div>
                 </li>
