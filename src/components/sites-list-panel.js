@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {Component, PureComponent} from 'react';
 import logoReclameAqui from "../reclame-aqui-logo.8cfb52a1.svg";
 import SiteStatus from "./site-status";
 import CpfCnpjFormatador from './cpf-cnpj-formatador';
@@ -21,7 +21,7 @@ library.add(faChevronCircleUp);
 library.add(faChevronCircleDown)
 
 
-class SitePanel extends Component {
+class SiteListItemPanel extends PureComponent {
     render() {
         if (!this.props.site) return null;
 
@@ -66,7 +66,7 @@ class SiteListPanel extends Component {
         var itens = [];
 
         if (Array.isArray(this.props.sites)) {
-            itens = this.props.sites.map((item) => <SitePanel key={item.id} site={item}/>);
+            itens = this.props.sites.map((item) => <SiteListItemPanel key={item.id} site={item}/>);
         }
 
         let configDirecao = (campo) => {
