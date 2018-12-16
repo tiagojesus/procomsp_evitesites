@@ -1,0 +1,3787 @@
+{
+  "DataConsulta": "02\/12\/2018",
+  "Result": "OK",
+  "TotalRecordCount": "420",
+  "Records": [
+    {
+            "id": "616",
+            "url": "02eventos.com.br",
+            "empresa": "02 EVENTOS ORGANIZA\u00c7\u00c3O E PROD LTDA ME",
+            "data_inclusao": "10\/05\/2017",
+            "cnpj_cpf": "05634564000108",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "434",
+            "url": "adorocompraronline.com",
+            "empresa": "adorocompraronline.com",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "1",
+            "url": "aikade.com",
+            "empresa": "B.R.A. COBRAN\u00c7AS DE INTERNET LTDA",
+            "data_inclusao": "21\/08\/2013",
+            "cnpj_cpf": "15605620000121",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "523",
+            "url": "amkg.com.br",
+            "empresa": "AMKG BRASIL EIRELI LTDA ME",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "19809800000186",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "437",
+            "url": "anabolizantesmaromba.com",
+            "empresa": "WANDILO JOSE DA SILVA LEITE",
+            "data_inclusao": "15\/09\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "400",
+            "url": "andradeshop.com.br",
+            "empresa": "V C DE ANDRADE ELETRONICOS ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "18871247000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "7",
+            "url": "anneperfumes.com.br",
+            "empresa": "WEB ADVISER SERV DE COM ELETR EIRELI",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "17653483000126",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "635",
+            "url": "annymakeup.com.br",
+            "empresa": "ANDERSON MENDONCA DA SILVA",
+            "data_inclusao": "10\/08\/2017",
+            "cnpj_cpf": "39170966842",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "391",
+            "url": "aproveitex.com.br",
+            "empresa": "APROVEITEX MARKETING DIGITAL E MIDIA LTDA ME",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "16646336000166",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "586",
+            "url": "artepress.com.br",
+            "empresa": "MEGAZIM COMERCIAL LTDA - EPP",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "11355587000178",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "606",
+            "url": "atacadomania.com.br",
+            "empresa": "CIASOL EMPRESA BRASILEIRA DE DISTRIBUI\u00c7\u00c3O",
+            "data_inclusao": "07\/02\/2017",
+            "cnpj_cpf": "21181212000192",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "472",
+            "url": "atletika.com.br",
+            "empresa": "A. A. DE CARVALHO COMERCIO DA MODA - ME",
+            "data_inclusao": "19\/02\/2015",
+            "cnpj_cpf": "11407907000196",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "610",
+            "url": "atrativamoveis.com.br",
+            "empresa": "JOS\u00c9 JOAQUIM RIBEIRO DE SOUZA",
+            "data_inclusao": "28\/03\/2017",
+            "cnpj_cpf": "21874014000104",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "386",
+            "url": "audiobass10.com.br",
+            "empresa": "RODRIGO LELES PEREIRA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "18116986000125",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "16",
+            "url": "auroramagazine.com.br",
+            "empresa": "EMPRESA BRASILEIRA DE VENDAS ON-LINE EIRELI",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "14911185000109",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "571",
+            "url": "aventurasepicas.com.br",
+            "empresa": "LEGENDS DO BRASIL COMERCIO E IMPORTACAO DE LIVROS E REVISTAS LTDA",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "08379081000194",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "507",
+            "url": "azurramoveis.com.br",
+            "empresa": "AZURRA M\u00d3VEIS E-COMMERCE LTDA EPP",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "18894073000130",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "428",
+            "url": "baratinhomesmo.com.br",
+            "empresa": "FERNANDA MARTINS FERNANDES",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "19394953000100",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "19",
+            "url": "baratoajato.com.br",
+            "empresa": "BARATO A JATO PROMO\u00c7\u00d5ES LTDA",
+            "data_inclusao": "14\/11\/2013",
+            "cnpj_cpf": "14504078000158",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "22",
+            "url": "bazardevantagens.com.br",
+            "empresa": "CARRARA SERVICOS DE INTERNET LTDA",
+            "data_inclusao": "08\/10\/2013",
+            "cnpj_cpf": "13227005000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "23",
+            "url": "bazarimportado.com.br",
+            "empresa": "CARRARA SERVICOS DE INTERNET LTDA",
+            "data_inclusao": "08\/10\/2013",
+            "cnpj_cpf": "13227005000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "489",
+            "url": "bbarato.com",
+            "empresa": "BLUE SYSTEMS INFORMATICA LTDA - ME",
+            "data_inclusao": "16\/07\/2015",
+            "cnpj_cpf": "59304576000195",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "525",
+            "url": "bcmagazine.com.br",
+            "empresa": "RENATO JOSE DE AMORIM ME",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "22544095000147",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "621",
+            "url": "belezaexpressa.com",
+            "empresa": "MARCELO OLIVEIRA DE MENEZES",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "539",
+            "url": "belgrand.com.br",
+            "empresa": "EDILBERTO SOUSA OLIVEIRA 47913304391",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "19071444000146",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "29",
+            "url": "besteletronicos.com",
+            "empresa": "JORGINA DE F\u00c1TIMA REDEL",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "16991546000191",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "432",
+            "url": "bestinformatica.com.br",
+            "empresa": "BEST COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "10396461000189",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "536",
+            "url": "birobiro.com.br",
+            "empresa": "SODREFIELD COMERCIAL EIRELI ME",
+            "data_inclusao": "19\/04\/2016",
+            "cnpj_cpf": "23005359000157",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "380",
+            "url": "bluerobottech.com",
+            "empresa": "MAURICIO ANDRADE JUNQUEIRA FILHO",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "13884403000192",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "420",
+            "url": "bodytreino.com.br",
+            "empresa": "R.S. SUPLEMENTOS ALIMENTARES LTDA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "17633072000179",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "36",
+            "url": "bolsadevantagens.com.br",
+            "empresa": "CARRARA SERVICOS DE INTERNET LTDA",
+            "data_inclusao": "08\/10\/2013",
+            "cnpj_cpf": "13227005000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "598",
+            "url": "boxeletro.com.br",
+            "empresa": "GILBERTO SILVA DOS SANTOS",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "19275244000105",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "421",
+            "url": "brothershape.com.br",
+            "empresa": "R.S. SUPLEMENTOS ALIMENTARES LTDA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "17633072000179",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "39",
+            "url": "buscaeletro.com.br",
+            "empresa": "VIA DISTRIBUICAO E COMERCIO LTDA ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "14026089000170",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "559",
+            "url": "buscavantagem.com.br",
+            "empresa": "RAIMUNDO ANTONIO DE SOUZA",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "45010282895",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "502",
+            "url": "caraveleshop.com.br",
+            "empresa": "LCB INFORMATICA LTDA ME",
+            "data_inclusao": "19\/10\/2015",
+            "cnpj_cpf": "74455056000177",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "527",
+            "url": "cardozoeletro.com.br",
+            "empresa": "ROSA MARIA CARDOZO DOS SANTOS",
+            "data_inclusao": "14\/03\/2016",
+            "cnpj_cpf": "13771846000177",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "443",
+            "url": "casaeletro.net",
+            "empresa": "casaeletro.net",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "430",
+            "url": "casarisque.com.br",
+            "empresa": "RISQUE NEG\u00d3CIOS E PARTICIPA\u00c7\u00d5ES LTDA ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "10719218000154",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "49",
+            "url": "casasaurora.com.br",
+            "empresa": "EMPRESA BRASILEIRA DE VENDAS ON-LINE EIRELI",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "14911185000109",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "56",
+            "url": "centerglobal.com.br",
+            "empresa": "EDMILZA SILVA SANTOS",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "12234461000108",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "410",
+            "url": "centerglobalsp.com.br",
+            "empresa": "JOAO BERNARDES DA SILVA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "511",
+            "url": "centernot.com.br",
+            "empresa": "CENTERNOTE PRODUTOS ELETRONICOS LTDA",
+            "data_inclusao": "30\/11\/2015",
+            "cnpj_cpf": "57412066000106",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "474",
+            "url": "centersulmagazine.com.br",
+            "empresa": "MARCOS FULGINI",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "39346855878",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "388",
+            "url": "centraldoseletronicos.com.br",
+            "empresa": "SEVERINO FRANCISCO DA COSTA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "18897573000125",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "491",
+            "url": "centuryshop.com.br",
+            "empresa": "CENTURY FOTO VIDEO E INFORMATICA LTDA - ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "05696214000168",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "58",
+            "url": "cestacheia.com.br",
+            "empresa": "CARRARA SERVICOS DE INTERNET LTDA",
+            "data_inclusao": "08\/10\/2013",
+            "cnpj_cpf": "13227005000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "427",
+            "url": "chamaimports.com",
+            "empresa": "ALEXANDRE GOMES",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "579",
+            "url": "ciadaslentes.com.br",
+            "empresa": "BUY4LESS COMERCIO ELETRONICO LTDA",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "11407261000147",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "557",
+            "url": "cicilia.com.br",
+            "empresa": "CICILIA COM ELETR MOVEIS ELETRODOM EIRELI",
+            "data_inclusao": "31\/08\/2016",
+            "cnpj_cpf": "23857511000120",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "445",
+            "url": "climaeletronicos.com.br",
+            "empresa": "WALTER GOMES DO AMARAL",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "19117465000155",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "64",
+            "url": "cliquereceptores.com.br",
+            "empresa": "DELVANA FATIMA MORAES DE SOUZA ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "6006011000165",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "658",
+            "url": "cofelen.com.br",
+            "empresa": "L. A. NATUS PRODUTOS NATURAIS LTDA",
+            "data_inclusao": "26\/04\/2018",
+            "cnpj_cpf": "13835116000192",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "70",
+            "url": "comercialbenjamin.com.br",
+            "empresa": "CELSO BENJAMIN DE SOUZA ME",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "5509055000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "72",
+            "url": "comoviversem.com",
+            "empresa": "JORGINA DE F\u00c1TIMA REDEL",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "16991546000191",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "413",
+            "url": "comprasuper.com.br",
+            "empresa": "DANIEL MOTTA DE SOUZA ELETROELETRONICOS ME",
+            "data_inclusao": "11\/08\/2014",
+            "cnpj_cpf": "13103138000168",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "84",
+            "url": "conecthmarcas.com.br",
+            "empresa": "ANDRE DA SILVA SANTOS",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "14240408000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "378",
+            "url": "consuteleletroshop.com.br",
+            "empresa": "ALMIRACI CARVALHO DE SOUSA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "19014167000130",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "650",
+            "url": "coquelux.com.br",
+            "empresa": "GRIFES BRASIL COM ROUPAS E ACESS\u00d3RIOS LTDA",
+            "data_inclusao": "13\/03\/2018",
+            "cnpj_cpf": "22749653000100",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "656",
+            "url": "corpetesbrasil.com.br",
+            "empresa": "PARANHOS MENDON\u00c7A COM E IMP LTDA",
+            "data_inclusao": "18\/04\/2018",
+            "cnpj_cpf": "97545576000173",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "607",
+            "url": "corpoperfeito.com.br",
+            "empresa": "GALGRIN GROUP LTDA",
+            "data_inclusao": "22\/02\/2017",
+            "cnpj_cpf": "04506236000155",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "433",
+            "url": "curtiucompra.com",
+            "empresa": "JOMARA CAVALO SANTOS",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "524",
+            "url": "dantaseletroeletronicos.com.br",
+            "empresa": "BRUNO DANTAS DE MELO",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "42935545800",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "462",
+            "url": "denobi.com.br",
+            "empresa": "DENOBI COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "17441287000198",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "93",
+            "url": "descontex.com",
+            "empresa": "MAXPAY INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "6037631000161",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "94",
+            "url": "descontomoveis.com.br",
+            "empresa": "D.S.M. DE MELLO LTDA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "9221660000177",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "96",
+            "url": "descontosmagazine.com.br",
+            "empresa": "x",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "x",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "98",
+            "url": "diamagazine.com.br",
+            "empresa": "AGNEW ELETRONICA LTDA",
+            "data_inclusao": "23\/05\/2013",
+            "cnpj_cpf": "4748871000149",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "637",
+            "url": "diashop.com.br",
+            "empresa": "JAQUELINE DA SILVA BRAGA",
+            "data_inclusao": "02\/10\/2017",
+            "cnpj_cpf": "20984988000188",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "449",
+            "url": "dicompra.com.br",
+            "empresa": "SHOPPING BEST TRENDS COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "19955025000177",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "399",
+            "url": "digitalcompras.com.br",
+            "empresa": "MICROSIGOL INFORMATICA LTDA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "08750610000114",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "455",
+            "url": "digitalnex.com.br",
+            "empresa": "SHOPPING BEST TRENDS COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "30\/10\/2014",
+            "cnpj_cpf": "19955025000177",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "660",
+            "url": "dimportbrasil.com.br",
+            "empresa": "D IMPORT BRASIL PERFUMES E COSM\u00c9TICOS EIRELI-ME",
+            "data_inclusao": "26\/04\/2018",
+            "cnpj_cpf": "03481989000190",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "464",
+            "url": "distribuidorajk.com",
+            "empresa": "DISTRIBUIDORAJK.COM",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "493",
+            "url": "docolmoveis.com.br",
+            "empresa": "GROUP DOCOL COM DE ELETRODOM ELETR E ACES BOLS GERAL LTDA",
+            "data_inclusao": "31\/07\/2015",
+            "cnpj_cpf": "13754716000126",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "575",
+            "url": "donadona.com.br",
+            "empresa": "MODINI BRASIL COMERCIAL EIRELI ME",
+            "data_inclusao": "04\/11\/2016",
+            "cnpj_cpf": "17375875000170",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "640",
+            "url": "duks.com.br",
+            "empresa": "FRIDA PERFUMARIA EIRELI EPP",
+            "data_inclusao": "09\/11\/2017",
+            "cnpj_cpf": "08849031000123",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "423",
+            "url": "ebayeletro.com",
+            "empresa": "DH INFORMATICA EIRELI ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "20254440000182",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "402",
+            "url": "egdeletro.com.br",
+            "empresa": "EGIDIO CARLOS COMERCIO VAREJISTA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "13206182000101",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "102",
+            "url": "elaser.com.br",
+            "empresa": "LASERCHIP INFORM\u00c1TICA LTDA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "8639231000151",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "530",
+            "url": "eleshop.com.br",
+            "empresa": "RX COM\u00c9RCIO ELETR\u00d4NICO LTDA ME",
+            "data_inclusao": "14\/03\/2016",
+            "cnpj_cpf": "12385798000116",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "612",
+            "url": "eletroalba.com.br",
+            "empresa": "BIGAIR IN\u00c1CIO DIAS ME",
+            "data_inclusao": "28\/03\/2017",
+            "cnpj_cpf": "19292417000101",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "103",
+            "url": "eletrobrasshop.com.br",
+            "empresa": "MARIA DA CONCEI\u00c7\u00c3O BARBOSA DE ALMEIDA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "17617035000177",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "597",
+            "url": "eletrocataratas.com.br",
+            "empresa": "",
+            "data_inclusao": "24\/01\/2017",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "572",
+            "url": "eletroed.com",
+            "empresa": "JOSE EDUARDO SANTOS",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "104",
+            "url": "eletrofastcompras.com.br",
+            "empresa": "AIRTON DA CONCEICAO NASCIMENTO",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18522972000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "601",
+            "url": "eletrojet.com.br",
+            "empresa": "CIASOL EMPRESA BRASILEIRA DE DISTRIBUI\u00c7\u00c3O",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "21181212000192",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "605",
+            "url": "eletrojet.com.br",
+            "empresa": "CIASOL EMPRESA BRASILEIRA DE DISTRIBUI\u00c7\u00c3O",
+            "data_inclusao": "07\/02\/2017",
+            "cnpj_cpf": "21181212000192",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "407",
+            "url": "eletromegashopping.com.br",
+            "empresa": "ELETRO MEGA SHOP LTDA-ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "73159253000186",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "106",
+            "url": "eletromm.com.br",
+            "empresa": "JULYCOM COMERCIAL ELETRONICA LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "57197790000164",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "426",
+            "url": "emporiodascamisetas.com.br",
+            "empresa": "A. L. R. DAS NEVES CAMISETAS ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "00652758000104",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "435",
+            "url": "enchantedstore.com.br",
+            "empresa": "CLEBER HENRIQUE WOLFART",
+            "data_inclusao": "10\/09\/2014",
+            "cnpj_cpf": "16772765000180",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "113",
+            "url": "eshopping-me.com",
+            "empresa": "E-SHOPPING COMERCIO DE VARIEDADES LTDA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "13613891000101",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "503",
+            "url": "espacoanaaslan.com.br",
+            "empresa": "ESPA\u00c7O ANA ASLAN INTERMEDIA\u00c7\u00c3O E REPRESENTA\u00c7\u00c3O LTDA",
+            "data_inclusao": "19\/10\/2015",
+            "cnpj_cpf": "08409425000160",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "554",
+            "url": "essencialeletro.com.br",
+            "empresa": "ESSENCIAL COM ELETR\u00d3NICOS M\u00d3VEIS ELETRODOM",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "23808888000199",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "625",
+            "url": "estilomenina.com.br",
+            "empresa": "JANAINA FERREIRA BENEVIDES - ME",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "22713596000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "404",
+            "url": "eumeinteresso.com.br",
+            "empresa": "MARQUETTI SERVI\u00c7OS DE INTERNET LTDA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "14222602000106",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "444",
+            "url": "evidencecenter.net",
+            "empresa": "EVIDENCE INFORMATICA LTDA. - ME ",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "10666676000172",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "460",
+            "url": "extramaisbarato.com",
+            "empresa": "EVEREST LOJA DE DEPARTAMENTOS EIRELI ME",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "19972673000131",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "116",
+            "url": "ezcompracerta.com.br",
+            "empresa": "ROSELI RODRIGUES MACENI PUTTKAMER",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18831751000115",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "614",
+            "url": "f5b.com.br",
+            "empresa": "CLAUDIO ALVES DA COSTA CONS FINANCEIRA ME",
+            "data_inclusao": "10\/05\/2017",
+            "cnpj_cpf": "08665331000152",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "419",
+            "url": "facildecomprar.com.br",
+            "empresa": "BARELLI COMERCIO E REPRESENTACAO LTDA ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "16492331000126",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "642",
+            "url": "farejandoofertas.com.br",
+            "empresa": "INVOS EMPRESA DE DISTRIBUICAO EIRELI - ME",
+            "data_inclusao": "16\/11\/2017",
+            "cnpj_cpf": "26305285000162",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "118",
+            "url": "farejarviagens.com.br",
+            "empresa": "CLEONICE PEREIRA TEIXEIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "80481086668",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "120",
+            "url": "faston.com.br",
+            "empresa": "VENDA EXPRESSA COMERCIAL LTDA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "14908361000145",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "453",
+            "url": "fdcelulares.com.br",
+            "empresa": "MARINA DOS SANTOS DOURADO",
+            "data_inclusao": "27\/10\/2014",
+            "cnpj_cpf": "26332099801",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "662",
+            "url": "feetoutlet.com",
+            "empresa": "GPB COM\u00c9RCIO VAREJISTA DE CAL\u00c7ADOS EIRELI -ME",
+            "data_inclusao": "26\/04\/2018",
+            "cnpj_cpf": "26664724000123",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "122",
+            "url": "felixeletro.com.br",
+            "empresa": "RAFAEL PEREIRA TAVARES",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "13614828000181",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "123",
+            "url": "fikefashion.com.br",
+            "empresa": "ALEX SANDRO DIAS RIBEIRO",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "12838508000142",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "452",
+            "url": "fioreto.com.br",
+            "empresa": "SISTEMA DEZ NEGOCIOS E COMERCIO ELETRONICO LTDA",
+            "data_inclusao": "27\/10\/2014",
+            "cnpj_cpf": "08759301000105",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "125",
+            "url": "fitchstore.com.br",
+            "empresa": "FITCHSTORE",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "591",
+            "url": "fiteletronicos.com.br",
+            "empresa": "FIT ELETR\u00d4NICOS LTDA",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "469",
+            "url": "fitshoes.com",
+            "empresa": "PLCB COBRAN\u00c7A E INTERM DE NEGOCIOS EIRELI",
+            "data_inclusao": "29\/01\/2015",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "429",
+            "url": "flordemenina.com",
+            "empresa": "NAYANE SALES SILVA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "454",
+            "url": "fortcell.com.br",
+            "empresa": "MARINA DOS SANTOS DOURADO",
+            "data_inclusao": "27\/10\/2014",
+            "cnpj_cpf": "26332099801",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "126",
+            "url": "fostonbrasil.com.br",
+            "empresa": "WILIAM CARLOS GALVAO ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "7941836000130",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "128",
+            "url": "francaeletro.com.br",
+            "empresa": "J.E.P. DA SILVA ELETROELETRONICOS ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "16578952000127",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "129",
+            "url": "freecomprascoletivas.com",
+            "empresa": "ARNALDO DA SILVA OLIVEIRA LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18680619000150",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "130",
+            "url": "freeshopinformatica.com.br",
+            "empresa": "M A COUTRIM EPP",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "16443581000176",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "131",
+            "url": "freeshopmais.com.br",
+            "empresa": "SIDNEY CINTI JUNIOR ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "11290876000136",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "488",
+            "url": "friturasemoleo.com.br",
+            "empresa": "FRITURAS EM OLEO",
+            "data_inclusao": "06\/07\/2015",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "663",
+            "url": "frozenshop.com.br",
+            "empresa": "HBR COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "21\/11\/2018",
+            "cnpj_cpf": "21510600000170",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "132",
+            "url": "futuraeletro.com.br",
+            "empresa": "M.L.DOMINGUES COMERCIAL LTDA ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "5418609000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "401",
+            "url": "g5imports.com.br",
+            "empresa": "M C C DA CONCEI\u00c7\u00c3O G5 IMPORTS ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "16927080000165",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "418",
+            "url": "gabimagazine.com.br",
+            "empresa": "M & S COMERCIO DIGITAL LTDA ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "18923330000114",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "438",
+            "url": "gabrielamodaepresentes.com.br",
+            "empresa": "SAMUEL ALVES DE CASTRO",
+            "data_inclusao": "15\/09\/2014",
+            "cnpj_cpf": "17014306000108",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "548",
+            "url": "game7.com.br",
+            "empresa": "GAME 7 COMERCIAL LTDA EPP",
+            "data_inclusao": "28\/07\/2016",
+            "cnpj_cpf": "12085316000102",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "545",
+            "url": "gamebonds.com",
+            "empresa": "DANILO DOS SANTOS GONCALVES DA SILVA",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "617",
+            "url": "gangmusic.com.br",
+            "empresa": "MUSIC 1 INSTRUMENTOS MUSICAIS LTDA ME",
+            "data_inclusao": "07\/02\/2017",
+            "cnpj_cpf": "05013021000165",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "603",
+            "url": "gennova.com.br",
+            "empresa": "RENVAL COMERCIO DE ELETRO ELETRONICOS LTDA EPP",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "25166262000151",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "136",
+            "url": "glabin.com.br",
+            "empresa": "DAVID MENDES",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "17351083000166",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "139",
+            "url": "goiascobrancas.com.br",
+            "empresa": "GOIAS COBRANCAS LTDA",
+            "data_inclusao": "06\/05\/2013",
+            "cnpj_cpf": "12185535000166",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "141",
+            "url": "goldplay.com.br",
+            "empresa": "M.P. DOS SANTOS ELETRONICOS ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18836525000127",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "143",
+            "url": "gruponcenter.com",
+            "empresa": "JEAN ROGERES MORAIS OLIVEIRA ME",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "09332673000113",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "608",
+            "url": "gwxinformatica.com.br",
+            "empresa": "LEONEL HONORATO DELMONDES",
+            "data_inclusao": "28\/03\/2017",
+            "cnpj_cpf": "23212565000138",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "563",
+            "url": "habitomoveis.com.br",
+            "empresa": "CICERO PAULO OLIVEIRA DE FREITAS ",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "17094735000124",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "485",
+            "url": "herbalist.com.br",
+            "empresa": "BG COM\u00c9RCIO EIRELI",
+            "data_inclusao": "21\/05\/2014",
+            "cnpj_cpf": "17184096000198",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "484",
+            "url": "hipermaisbarato.com.br",
+            "empresa": "EVEREST LOJA DE DEPARTAMENTOS EIRELI",
+            "data_inclusao": "14\/05\/2015",
+            "cnpj_cpf": "19972673000131",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "150",
+            "url": "horadigitalshop.com.br",
+            "empresa": "LUIZ ALBERTO XAVIER",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "14390392000157",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "562",
+            "url": "horuseletronicos.com.br",
+            "empresa": "JO\u00c3O AD\u00c3O DA SILVA",
+            "data_inclusao": "27\/09\/2016",
+            "cnpj_cpf": "11845643000152",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "153",
+            "url": "imperdivel.com.br",
+            "empresa": "COMPANHIA BRAS DE MARKETING PROMOCIONAL",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "11890369000133",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "565",
+            "url": "imperioglassdecor.com.br",
+            "empresa": "D2M DIGITAL LTDA ME",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "21285080000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "156",
+            "url": "importeletro.com.br",
+            "empresa": "MANOEL FRANCISCO DE SOUSA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "5820367391",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "385",
+            "url": "infinityeletroshop.com",
+            "empresa": "INFINITY MEGA ELETRO LTDA ME",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "19197582000176",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "159",
+            "url": "infogrego.com.br",
+            "empresa": "VALDIR GREGOLETTO JUNIOR ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "15345971000140",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "573",
+            "url": "infonot.com.br",
+            "empresa": "JOAO FRANCISCO FERREIRA LIGEIRO",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "20285293000108",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "163",
+            "url": "internetdinheiro.com.br ",
+            "empresa": "ELZA MELO",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "50863169449",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "372",
+            "url": "istoeofertas.com",
+            "empresa": "BLASHOP REPRESENTACAO E COMERCIO LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "3733558000175",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "166",
+            "url": "itecmagazine.com.br",
+            "empresa": "COM DE ELETR\u00d4NICOS ITECMAGAZINE LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "10604178000103",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "167",
+            "url": "jogos3ds.com",
+            "empresa": "B.R.A. COBRAN\u00c7AS DE INTERNET LTDA",
+            "data_inclusao": "21\/08\/2013",
+            "cnpj_cpf": "15605620000121",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "651",
+            "url": "jumbomagazine.com.br",
+            "empresa": "HONAE COMPANHIA ATACADISTA EIRELI",
+            "data_inclusao": "13\/03\/2018",
+            "cnpj_cpf": "26203967000164",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "169",
+            "url": "junioreeletronicos.com.br",
+            "empresa": "OSVALDO VIEIRA JUNIOR",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "84158085691",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "171",
+            "url": "kadz.com",
+            "empresa": "IZYPAY INTERMEDI\u00c7\u00c3O DE NEG LTDA",
+            "data_inclusao": "28\/01\/2013",
+            "cnpj_cpf": "13832609000179",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "414",
+            "url": "karolldollmakeup.com.br",
+            "empresa": "CAROLINA DA SILVA RIBEIRO",
+            "data_inclusao": "11\/08\/2014",
+            "cnpj_cpf": "14981388000163",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "172",
+            "url": "kayeeletro.com.br",
+            "empresa": "JULIENE TAIS FERREIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "39464836822",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "173",
+            "url": "kebarato.com.br",
+            "empresa": "GIOVANNI MORAIS CECCONI ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "12074198000137",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "398",
+            "url": "kingmania.com.br",
+            "empresa": "EDGE COMUNICA\u00c7\u00c3O E PUBLICIDADE LTDA ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "14128231000190",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "174",
+            "url": "kmisetas.com.br",
+            "empresa": "IDEE COMERCIO DE ROUPAS LTDA ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "7436526000168",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "549",
+            "url": "kopers.com.br",
+            "empresa": "MEGA VENDAS ONLINE EIRELI ME",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "19304719000144",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "514",
+            "url": "ksleletronicos.com.br",
+            "empresa": "ANDR\u00c9 LUIS FRANCINO DA SILVA ME",
+            "data_inclusao": "07\/12\/2015",
+            "cnpj_cpf": "18419435000130",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "471",
+            "url": "kvinformatica.com.br",
+            "empresa": "EDILSON SOARES DO NASCIMENTO",
+            "data_inclusao": "03\/02\/2015",
+            "cnpj_cpf": "20693225000188",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "645",
+            "url": "lalunacosmetics.com.br",
+            "empresa": "LUAN MIRANDA",
+            "data_inclusao": "16\/01\/2018",
+            "cnpj_cpf": "37325348800",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "588",
+            "url": "larmovel.com.br",
+            "empresa": "LARMOVEL COM\u00c9RCIO DE M\u00d3VEIS LTDA ME",
+            "data_inclusao": "15\/12\/2016",
+            "cnpj_cpf": "04130631000186",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "618",
+            "url": "lealdadeshop.com.br",
+            "empresa": "SERGIO MARTINS DA SILVA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "23542135000184",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "553",
+            "url": "lefone.com.br",
+            "empresa": "LEFONE COM DE EQUIP DE COMUNICA\u00c7\u00c3O LTDA",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "07755755000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "570",
+            "url": "legendsdobrasil.com.br",
+            "empresa": "LEGENDS DO BRASIL COMERCIO E IMPORTACAO DE LIVROS E REVISTAS LTDA",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "08379081000194",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "178",
+            "url": "leoeletroshop.com.br",
+            "empresa": "LEO FABIANO MESTRINEL ME",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "17929755000178",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "466",
+            "url": "lessenceperfumes.com",
+            "empresa": "EVANDRO LUIZ MOREIRA DA SILVA",
+            "data_inclusao": "13\/01\/2014",
+            "cnpj_cpf": "12923321000147",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "179",
+            "url": "liderbit.com.br",
+            "empresa": "LIDER BIT COMERCIO ELETRONICO LTDA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "11394904000165",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "599",
+            "url": "lifeshoptv.com.br",
+            "empresa": "LIFESHOP TV TELEMARKETING LTDA EPP",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "01934286000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "180",
+            "url": "linkinshop.com.br",
+            "empresa": "RONIEL MOREIRA VIEIRA INFORMATICA ME",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "16572495000163",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "181",
+            "url": "liquidabay.com",
+            "empresa": "ALEX MOTTA DE SOUZA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "85948265595",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "182",
+            "url": "liquidaiphone.com.br",
+            "empresa": "FUJIBRAS COM IMP EXP LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "8078696000180",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "476",
+            "url": "liquidamais.com.br",
+            "empresa": "COMERCIO ELETRONICO LIQUIDA MAIS EIRELI - ME",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "19766976000106",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "529",
+            "url": "litortalshop.com.br",
+            "empresa": "PAULO ROBERTO SERACINI ME",
+            "data_inclusao": "14\/03\/2016",
+            "cnpj_cpf": "19044391000174",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "403",
+            "url": "livrariabiz.com.br",
+            "empresa": "LIVRARIA BIZ LTDA ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "14504299000126",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "647",
+            "url": "livrariadoespirita.com.br",
+            "empresa": "SIMPLIVIDEO COM. ARTIGOS DE VIDEO E AUDIO LTDA",
+            "data_inclusao": "19\/01\/2018",
+            "cnpj_cpf": "11184266000158",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "184",
+            "url": "localclub.com.br",
+            "empresa": "E.L. DOS SANTOS E CIA LTDA ME",
+            "data_inclusao": "12\/07\/2013",
+            "cnpj_cpf": "11151336000171",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "620",
+            "url": "localdoeletro.com.br",
+            "empresa": "JOS\u00c9 BORGES DA SILVA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "20347293000195",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "558",
+            "url": "lojabarcelona.com.br",
+            "empresa": "BARCELONA SP M\u00d3VEIS LTDA EPP",
+            "data_inclusao": "31\/08\/2016",
+            "cnpj_cpf": "19114318000121",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "555",
+            "url": "lojacasaroyal.com.br",
+            "empresa": "M\u00c1RCIO JOS\u00c9 BRAZ ME",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "21123293000174",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "609",
+            "url": "lojaclickdecore.com.br",
+            "empresa": "MARCOS ANTONIO DIONIZIO DE LIMA",
+            "data_inclusao": "28\/03\/2017",
+            "cnpj_cpf": "26412512000159",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "185",
+            "url": "lojacreativeshop.com.br",
+            "empresa": "EMANUEL DIEGO BIANCO",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "17727741000171",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "186",
+            "url": "lojadoanabol.com",
+            "empresa": "JOAO NAVES NETO",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "13665634172",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "371",
+            "url": "lojadodidi.com",
+            "empresa": "BLASHOP COMERCIAL LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "03733558000174",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "187",
+            "url": "lojadosete.com.br",
+            "empresa": "LEANDRO ALVES BORGES",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "22756935808",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "496",
+            "url": "lojafemmefatale.com",
+            "empresa": "J\u00c9SSICA FERR\u00c3O LOPES",
+            "data_inclusao": "04\/09\/2015",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "649",
+            "url": "lojafrozen.com.br",
+            "empresa": "HBR COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "19\/01\/2018",
+            "cnpj_cpf": "21510600000170",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "590",
+            "url": "lojamassa.com.br",
+            "empresa": "LENGERI LTDA ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "03683289000189",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "566",
+            "url": "lojamaxbr.com.br",
+            "empresa": "MAX BR MOVEIS LTDA - EPP",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "18752294000173",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "478",
+            "url": "lojapanama.com.br",
+            "empresa": "MARCELO CARDOSO BENVINDO",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "19071765000140",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "188",
+            "url": "lojaphaser.com.br",
+            "empresa": "VALFREDO VIDAL FERREIRA",
+            "data_inclusao": "27\/11\/2013",
+            "cnpj_cpf": "18439805000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "596",
+            "url": "LOJASAMIRA.COM.BR",
+            "empresa": "",
+            "data_inclusao": "18\/01\/2017",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "522",
+            "url": "Lojasbraz.com.br",
+            "empresa": "JOSE BRAZ DA SILVA",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "19885719000185",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "191",
+            "url": "lojasbressan.com.br",
+            "empresa": "MEIRE CRISTINA DA SILVA BRESSAN ME",
+            "data_inclusao": "04\/01\/2013",
+            "cnpj_cpf": "15343545000178",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "508",
+            "url": "lojasfantini.com.br",
+            "empresa": "TIAGO ALEX FANTINI ME",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "97519570000124",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "592",
+            "url": "lojasfoco.com.br",
+            "empresa": "E.H.S. DA SILVA ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "09269244000149",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "546",
+            "url": "lojaslouveira.com.br",
+            "empresa": "JIMMY KELSON LOUVEIRA - ME",
+            "data_inclusao": "19\/04\/2016",
+            "cnpj_cpf": "19560467000114",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "543",
+            "url": "lojaspaulistinha.com.br",
+            "empresa": "JOSE ANTONIO MATOS 00380136309",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "19913055000110",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "479",
+            "url": "lojaswikee.com.br",
+            "empresa": "MARINHO & PASQUINELLI PREST DE SERV COBR LTDA ME",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "18332034000149",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "193",
+            "url": "lojaswill.com.br",
+            "empresa": "LOJAS WILL LTDA ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "17855238000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "195",
+            "url": "lojatrix.com",
+            "empresa": "LOJATRIX",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "x",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "628",
+            "url": "lojavitaepe.com.br",
+            "empresa": "EFS INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "17904745000188",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "639",
+            "url": "lojazoom.com.br",
+            "empresa": "MARIA DE LURDE DA COSTA",
+            "data_inclusao": "09\/11\/2017",
+            "cnpj_cpf": "26304028000106",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "467",
+            "url": "lojinhadamaquiagem.com.br",
+            "empresa": "ANDERSON MENDONCA DA SILVA",
+            "data_inclusao": "14\/01\/2014",
+            "cnpj_cpf": "14858371000113",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "196",
+            "url": "lucrepelaweb.com",
+            "empresa": "RODRIGO AUGUSTO MOREIRA DE S OLIVEIRA",
+            "data_inclusao": "27\/11\/2013",
+            "cnpj_cpf": "12875745000183",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "451",
+            "url": "Lucunha.com.br",
+            "empresa": "LU CUNHA STORE COM. IMP. EXP. DE ELETRONICOS LTDA",
+            "data_inclusao": "16\/10\/2014",
+            "cnpj_cpf": "20085964000197",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "450",
+            "url": "Lucunhastore.com.br",
+            "empresa": "LU CUNHA STORE COM. IMP. EXP. DE ELETRONICOS LTDA",
+            "data_inclusao": "16\/10\/2014",
+            "cnpj_cpf": "20085964000197",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "197",
+            "url": "magasinvirtual.com.br",
+            "empresa": "MARELIS LINDOIA SPRENGER DE MORAES",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "14300452000101",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "198",
+            "url": "magazinebahia.com.br",
+            "empresa": "ANTONIO JOSE DA SILVA ARAUJO",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "80209297519",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "199",
+            "url": "magazinecury.com.br",
+            "empresa": "CURY CAMPOS MAGAZINE LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "12360932000124",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "589",
+            "url": "magazinefernando.com",
+            "empresa": "NUCIS ATACADO E VAREJO EIRELI ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "23180863000193",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "425",
+            "url": "magazinequeiroz.com.br",
+            "empresa": "RENATO FERNANDES DE QUEIROZ INFORMATICA - ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "19450397000141",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "495",
+            "url": "magazinericardo.com.br",
+            "empresa": "Q.I. BARATO MAGAZINE EIRELI",
+            "data_inclusao": "04\/09\/2015",
+            "cnpj_cpf": "20036369000161",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "501",
+            "url": "magicshopping.com.br",
+            "empresa": "BRUNA CRISTINA NUNES",
+            "data_inclusao": "19\/10\/2015",
+            "cnpj_cpf": "20928539000112",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "492",
+            "url": "maisbaratissimo.com.br",
+            "empresa": "GUILHERME HOSTINS NETO",
+            "data_inclusao": "16\/07\/2015",
+            "cnpj_cpf": "19577479000151",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "202",
+            "url": "maisbaratomaisbarato.com",
+            "empresa": "ANTONIA ARAUJO",
+            "data_inclusao": "28\/01\/2013",
+            "cnpj_cpf": "11668445000160",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "411",
+            "url": "maisfacilshop.com.br",
+            "empresa": "MAIS FACIL GROUP COMERCIO E SERVI\u00c7OS EIRELI ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "10597783000196",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "203",
+            "url": "makroeletro.com",
+            "empresa": "BLASHOP REPRESENTACAO E COMERCIO LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "3733558000174",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "576",
+            "url": "makroeletronicos.com",
+            "empresa": "LUCIENE DE SOUSA SILVA OLIVEIRA",
+            "data_inclusao": "09\/11\/2016",
+            "cnpj_cpf": "12910442000154",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "505",
+            "url": "mamboeletro.com.br",
+            "empresa": "CRONOS BRASIL COMERCIAL EIRELI",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "23005795000126",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "389",
+            "url": "maniasmart.com.br",
+            "empresa": "VANESSA APARECIDA GOMES",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "19364633000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "205",
+            "url": "martshop.com.br",
+            "empresa": "LORRAINE MANTOVANI DE PAULA DALTON SILVEIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "14184762000108",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "542",
+            "url": "mastershoprioclaro.com.br",
+            "empresa": "GUILHERME HENRIQUE BALTHAZAR-ME",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "23228474000190",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "487",
+            "url": "maximaeletrodomesticos.com.br",
+            "empresa": "MAXIMA EMPREENDIMENTOS E NEGOCIOS LTDA ",
+            "data_inclusao": "18\/06\/2015",
+            "cnpj_cpf": "04384494000106",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "209",
+            "url": "medadesconto.com.br",
+            "empresa": "P & P SYSTEM LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "11729210000131",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "533",
+            "url": "megatix.com.br",
+            "empresa": "MAGIC TICKET LTDA ME",
+            "data_inclusao": "19\/04\/2016",
+            "cnpj_cpf": "04358221000197",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "638",
+            "url": "megaultra.com.br",
+            "empresa": "JOS\u00c9 LUIZ BORGES DOS SANTOS DE JESUS",
+            "data_inclusao": "09\/11\/2017",
+            "cnpj_cpf": "22150083000138",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "513",
+            "url": "megazinet.com.br",
+            "empresa": "MEGA VENDAS ONLINE EIRELI",
+            "data_inclusao": "30\/11\/2015",
+            "cnpj_cpf": "19304719000144",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "395",
+            "url": "menteurbana.com.br",
+            "empresa": "MENTE URBANA SERVI\u00c7OS DIGITAIS LTDA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "14010885000114",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "431",
+            "url": "meoespacoshopping.com.br",
+            "empresa": "TIAGO CRUZ LIMA 32498317864",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "19117180000114",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "215",
+            "url": "meraeletrodomesticos.com.br",
+            "empresa": "ZAIRA NASCIMENTO BATISTA",
+            "data_inclusao": "27\/11\/2013",
+            "cnpj_cpf": "18439690000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "216",
+            "url": "metodoapostilas.com",
+            "empresa": "EDWARD FELIPE DA SILVA",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "X",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "630",
+            "url": "meumovel.com.br",
+            "empresa": "CLAUDIO SANTOS TRINDADE",
+            "data_inclusao": "10\/05\/2017",
+            "cnpj_cpf": "16788717000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "218",
+            "url": "miamibr.com",
+            "empresa": "GOIAS COBRANCAS LTDA",
+            "data_inclusao": "06\/05\/2013",
+            "cnpj_cpf": "12185535000165",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "219",
+            "url": "miamicelular.com",
+            "empresa": "JCS DA MOTA ASSESSORIA EMPRESARIAL ME",
+            "data_inclusao": "14\/11\/2013",
+            "cnpj_cpf": "7877746000127",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "518",
+            "url": "miliosi.com.br",
+            "empresa": "NICOLANGELO MILIOSI PHILIPPELLI SUPLEMENTOS ALIMENt EIRELI",
+            "data_inclusao": "10\/12\/2015",
+            "cnpj_cpf": "65647182000132",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "415",
+            "url": "miluxo.com.br",
+            "empresa": "JOSIELE MULINARIO VIEIRA",
+            "data_inclusao": "11\/08\/2014",
+            "cnpj_cpf": "09267258745",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "220",
+            "url": "minimovalor.com.br",
+            "empresa": "CLEBERSON SALDANHA NERY-ME",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "13509267000150",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "221",
+            "url": "misterlance.com.br",
+            "empresa": "PEDRO ANTONIO NOBRE",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "6410013809",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "461",
+            "url": "mmimport.com.br",
+            "empresa": "MARCELA DE ARAUJO SILVA ",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "17425046000155",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "436",
+            "url": "moda4you.com.br",
+            "empresa": "CLEBER HENRIQUE WOLFART",
+            "data_inclusao": "10\/09\/2014",
+            "cnpj_cpf": "16772765000180",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "222",
+            "url": "modagringa.com.br",
+            "empresa": "VANESSA GOULART DE SOUZA DONATO ASSIS",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "35155283850",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "581",
+            "url": "modajoy.com.br",
+            "empresa": "EDINEI ANTONIO MARTINS",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "07095159602",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "582",
+            "url": "modatoi.com.br",
+            "empresa": "EDINEI ANTONIO MARTINS",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "07095159602",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "515",
+            "url": "modice.com.br",
+            "empresa": "MARIA APARECIDA DE SOUZA",
+            "data_inclusao": "08\/12\/2015",
+            "cnpj_cpf": "95494847934",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "585",
+            "url": "moveiscastilho.com.br",
+            "empresa": "ANTONIO CARLOS PEREIRA ARA\u00daJO",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "19505911000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "510",
+            "url": "moveisluminus.com.br",
+            "empresa": "RINALDO FONSECA DA ROCHA",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "18948908000197",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "227",
+            "url": "mptudo.com",
+            "empresa": "GOIAS COBRANCAS LTDA",
+            "data_inclusao": "06\/05\/2013",
+            "cnpj_cpf": "12185535000164",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "229",
+            "url": "multiclickbrasil.com.br",
+            "empresa": "MULTICLICK BRASIL PUBLICIDADE LTDA",
+            "data_inclusao": "28\/12\/2013",
+            "cnpj_cpf": "10248759000141",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "231",
+            "url": "multisuper.com.br",
+            "empresa": "ELIAS WAGNER LINDOSO COSTA-ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18520648000154",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "233",
+            "url": "mundialrl.com.br",
+            "empresa": "LUCIANO BRASIL RAMOS",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "14345366000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "234",
+            "url": "mundodix.com.br",
+            "empresa": "BLASHOP REPRESENTACAO E COMERCIO LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "3733558000174",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "235",
+            "url": "myamivendas.com",
+            "empresa": "JCS DA MOTA ASSESSORIA EMPRESARIAL ME",
+            "data_inclusao": "14\/11\/2013",
+            "cnpj_cpf": "7877746000127",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "377",
+            "url": "nagaieletro.com.br",
+            "empresa": "ANDRESSA C. MOURA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "475",
+            "url": "nataleletro.com.br",
+            "empresa": "HENRIQUE ANTONIO MARQUES",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "25787904850",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "535",
+            "url": "needseletro.com.br",
+            "empresa": "AD\u00c3O MESSIAS NUNES DE SOUZA",
+            "data_inclusao": "19\/04\/2016",
+            "cnpj_cpf": "19591329000100",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "238",
+            "url": "neoneletro.com.br",
+            "empresa": "NEON DISTRIB DE PROD ELETRONICOS LTDA",
+            "data_inclusao": "19\/03\/2013",
+            "cnpj_cpf": "10310483000184",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "580",
+            "url": "netlens.com.br",
+            "empresa": "BUY4LESS COMERCIO ELETRONICO LTDA",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "11407261000147",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "240",
+            "url": "netpareletronicos.com.br",
+            "empresa": "LUPERSIO DA SILVA PAIS",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "9534514000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "243",
+            "url": "newyorkimports.com.br",
+            "empresa": "NEON DISTRIB DE PROD ELETRONICOS LTDA",
+            "data_inclusao": "19\/03\/2013",
+            "cnpj_cpf": "10310483000184",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "506",
+            "url": "novodesconto.com",
+            "empresa": "G I T COBRAN\u00c7A EXTRAJUDICIAL LTDA ME",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "19191251000129",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "250",
+            "url": "ofertaovip.com.br",
+            "empresa": "x",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "x",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "424",
+            "url": "ofertasdeatacado.com",
+            "empresa": "DH INFORMATICA EIRELI ME",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "20254440000182",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "458",
+            "url": "ofertasmappin.com.br",
+            "empresa": "SHOPPING BEST TRENDS COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "24\/11\/2014",
+            "cnpj_cpf": "19955025000177",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "252",
+            "url": "ofertasprado.com.br",
+            "empresa": "L.P.PRADO ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "17496051000159",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "551",
+            "url": "ofertaspremiumbr.com.br",
+            "empresa": "RAIMUNDO ANTONIO DE SOUZA",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "45010282895",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "390",
+            "url": "ofertasprime.com",
+            "empresa": "",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "253",
+            "url": "ofertone.com",
+            "empresa": "NEON DISTRIB DE PROD ELETRONICOS LTDA",
+            "data_inclusao": "19\/03\/2013",
+            "cnpj_cpf": "10310483000184",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "254",
+            "url": "olharbit.com.br",
+            "empresa": "BLASHOP REPRESENTACAO E COMERCIO LTDA",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "3733558000174",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "373",
+            "url": "oliveirashopping.com",
+            "empresa": "DANIELLE DE OLIVEIRA DOS SANTOS ME",
+            "data_inclusao": "16\/05\/2014",
+            "cnpj_cpf": "11808032000134",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "256",
+            "url": "oncomprascoletivas.com",
+            "empresa": "LUIZ CARLOS DA SILVA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "15400662404",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "405",
+            "url": "onlix.com.br",
+            "empresa": "SAEMP SERVI\u00c7OS E ASSESSORIA EMPRESARIAL LTDA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "08165152000156",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "497",
+            "url": "onlycell.com.br",
+            "empresa": "ONLYCELL COMERCIO DE ELETRONICOS EIRELI ME",
+            "data_inclusao": "04\/09\/2015",
+            "cnpj_cpf": "19120991000174",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "257",
+            "url": "operastore.com.br",
+            "empresa": "OPERASTORE COM DE ELETROD EIRELI",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18821083000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "259",
+            "url": "orangemix.com.br",
+            "empresa": "A R DA CRUZ COM DE ELETRO ELETRONICOS EIRELI",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "18002413000170",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "468",
+            "url": "outletdahora.com",
+            "empresa": "FERNANDA GONZALES MAMA",
+            "data_inclusao": "14\/01\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "552",
+            "url": "outletdodudu.com.br",
+            "empresa": "RAIMUNDO ANTONIO DE SOUZA",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "45010282895",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "652",
+            "url": "outlettripp.com",
+            "empresa": "JESSE ALVARENGA DUARTE",
+            "data_inclusao": "18\/04\/2018",
+            "cnpj_cpf": "28290996000136",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "509",
+            "url": "outletutilidades.com.br",
+            "empresa": "AGNALDO DA SILVA",
+            "data_inclusao": "27\/11\/2015",
+            "cnpj_cpf": "19146928000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "631",
+            "url": "outletz.com.br",
+            "empresa": "PLCB COBRAN\u00c7A E INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS EIRELI",
+            "data_inclusao": "20\/07\/2017",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "409",
+            "url": "padovasa.com.br",
+            "empresa": "MICHEL MATTAR DE OLIVEIRA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "19076143000105",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "486",
+            "url": "pagaweb.com.br",
+            "empresa": "IBC INTERMEDIA\u00c7\u00c3O E SERV ADM LTDA",
+            "data_inclusao": "15\/06\/2015",
+            "cnpj_cpf": "21213857000160",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "499",
+            "url": "pank.com.br",
+            "empresa": "D&L SERVICOS DE INTERMEDIACAO DE NEG E SOL WEB LT",
+            "data_inclusao": "21\/09\/2015",
+            "cnpj_cpf": "14237822000103",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "583",
+            "url": "paradiseimports.com.br",
+            "empresa": "PARADISE INTERMEDIACOES VIA INTERNET EIRELI ME",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "22295487000110",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "587",
+            "url": "paranaofertas.com.br",
+            "empresa": "MOISES MENDES BORGES",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "18780520000120",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "262",
+            "url": "parshop.com.br",
+            "empresa": "JOSE ANTONIO FARIA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "16673104000105",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "465",
+            "url": "paulahinschinck.com.br",
+            "empresa": "ERENI TEREZINHA HINSCHINK ME",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "19391751000104",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "263",
+            "url": "pccomputadores.com.br",
+            "empresa": "POWER COMP INFORMATICA LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "2871407000110",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "382",
+            "url": "peguei.com.br",
+            "empresa": "MB VIDAL ARAGUAIA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "6320168000160",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "393",
+            "url": "pelicanocompras.com",
+            "empresa": "COMPRA EXPRESS LTDA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "17873462000116",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "384",
+            "url": "pelicanocompras.com.br",
+            "empresa": "COMPRA EXPRESS LTDA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "17873462000116",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "266",
+            "url": "perfumariacuritiba.com.br",
+            "empresa": "PERFUMARIA CURITIBA LTDA \u0096 ME ",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "9047836000116",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "267",
+            "url": "perfumariaoutlet.com.br",
+            "empresa": "EDNA MARIA BEZERRA DE SOUZA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "11949040259",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "564",
+            "url": "perfumesoutlet.com.br",
+            "empresa": "D2M DIGITAL LTDA ME",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "21285080000149",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "416",
+            "url": "perfumeuro.com.br",
+            "empresa": "JOSE ANTONIO SOARES",
+            "data_inclusao": "11\/08\/2014",
+            "cnpj_cpf": "00383903000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "392",
+            "url": "pescariaurbana.net",
+            "empresa": "SMART SERVI\u00c7OS DE INTERNET LTDA EPP",
+            "data_inclusao": "02\/06\/2014",
+            "cnpj_cpf": "17171998000190",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "627",
+            "url": "pinheiroequipamento.com.br",
+            "empresa": "PINHEIRO EQUIPAMENTOS - COM. DE REFR. EIRELI - ME",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "24868418000183",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "634",
+            "url": "pinkmaquiagem.com.br",
+            "empresa": "ANDERSON MENDONCA DA SILVA",
+            "data_inclusao": "14\/01\/2014",
+            "cnpj_cpf": "14858371000113",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "273",
+            "url": "pontoamarelo.com.br",
+            "empresa": "PONTO AMARELO INF ACESSORIOS E IMP",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "15616898000102",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "374",
+            "url": "poucashoras.com.br",
+            "empresa": "EFS PARTICIPA\u00c7\u00d5ES EIRELI",
+            "data_inclusao": "16\/05\/2014",
+            "cnpj_cpf": "17069074000187",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "375",
+            "url": "poucashorasclube.com.br",
+            "empresa": "EFS PARTICIPA\u00c7\u00d5ES EIRELI",
+            "data_inclusao": "16\/05\/2014",
+            "cnpj_cpf": "17069074000187",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "276",
+            "url": "powerclik.com.br",
+            "empresa": "ROBSON LUIS SOARES INFORMATICA ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "17007773000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "277",
+            "url": "pramulheres.com.br",
+            "empresa": "LUCIANE MARIA THOMAZ",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "14468674000120",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "574",
+            "url": "praticfacil.com.br",
+            "empresa": "LUANA SANTOS LEMOS ME",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "05243898000142",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "661",
+            "url": "premiumcode.com.br",
+            "empresa": "JOSE DA SILVA",
+            "data_inclusao": "26\/04\/2018",
+            "cnpj_cpf": "24291236000192",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "641",
+            "url": "primevarejista.com.br",
+            "empresa": "JAQUELINE DA SILVA BRAGA",
+            "data_inclusao": "10\/11\/2017",
+            "cnpj_cpf": "20984988000188",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "547",
+            "url": "priv8brands.com",
+            "empresa": "PRIVATE BRANDS COMERCIO ELETRONICO LTDA ME",
+            "data_inclusao": "18\/05\/2016",
+            "cnpj_cpf": "13197230000134",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "459",
+            "url": "promocaocoletiva.com",
+            "empresa": "PROMOCAOCOLETIVA.COM",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "280",
+            "url": "purga.com.br",
+            "empresa": "PURGA COMERCIO LTDA EPP",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "15545423000164",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "538",
+            "url": "rakkubrasil.com.br",
+            "empresa": "EFS INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "29\/04\/2016",
+            "cnpj_cpf": "17904745000188",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "537",
+            "url": "rakkusaudemagnetica.com.br",
+            "empresa": "EFS INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "29\/04\/2016",
+            "cnpj_cpf": "17904745000188",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "282",
+            "url": "raposashop.com.br",
+            "empresa": "GIOVANNI MORAIS CECCONI ME",
+            "data_inclusao": "23\/07\/2013",
+            "cnpj_cpf": "12074198000137",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "457",
+            "url": "rbofertas.com.br",
+            "empresa": "RAFAEL BARBOSA DOS SANTOS ME",
+            "data_inclusao": "17\/11\/2014",
+            "cnpj_cpf": "19349709000125",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "440",
+            "url": "rcaeletronic.com",
+            "empresa": "JACKSON SANTOS DE JESUS",
+            "data_inclusao": "19\/09\/2014",
+            "cnpj_cpf": "19645061000134",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "447",
+            "url": "reidosanabols.com",
+            "empresa": "RAFAEL RICCI",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "602",
+            "url": "renval.com.br",
+            "empresa": "RENVAL COMERCIO DE ELETRO ELETRONICOS LTDA EPP",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "25166262000151",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "653",
+            "url": "resetway.com",
+            "empresa": "JESSE ALVARENDA DUARTE",
+            "data_inclusao": "18\/04\/2018",
+            "cnpj_cpf": "28290996000136",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "446",
+            "url": "revendavictoriassecret.com.br",
+            "empresa": "EDNA PEREIRA DE SOUZA",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "577",
+            "url": "rizzononline.com.br",
+            "empresa": "FERNANDO DO NASCIMENTO",
+            "data_inclusao": "10\/11\/2016",
+            "cnpj_cpf": "23939935000133",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "379",
+            "url": "roboazul.com.br",
+            "empresa": "MAURICIO ANDRADE JUNQUEIRA FILHO",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "13884403000192",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "600",
+            "url": "rosadistribuidora.com.br",
+            "empresa": "PEDRELINA GOMES DA COSTA",
+            "data_inclusao": "03\/02\/2017",
+            "cnpj_cpf": "26552623000160",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "500",
+            "url": "runi.com.br",
+            "empresa": "ALANA SODR\u00c9 PEREIRA",
+            "data_inclusao": "13\/10\/2014",
+            "cnpj_cpf": "03747853501",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "383",
+            "url": "rzshop.com.br",
+            "empresa": "R. GON\u00c7ALVES ALVES COM. VAREJISTA",
+            "data_inclusao": "26\/05\/2014",
+            "cnpj_cpf": "18813937000141",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "289",
+            "url": "saldaoabc.com.br",
+            "empresa": "PAULO CESAR MOREIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "5419075814",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "290",
+            "url": "saldaofast.com.br",
+            "empresa": "PEDRO PEREIRA DA SILVA COMERCIO DE ELETRONICOS",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18819046000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "293",
+            "url": "saudefitoterapia.com.br",
+            "empresa": "ADILTON GUEDES OLIVEIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "82428808168",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "626",
+            "url": "servicedistribuidora.com.br",
+            "empresa": "ADEMIR ADENIR DE OLIVEIRA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "26541220000116",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "422",
+            "url": "shapebrothers.com.br",
+            "empresa": "R.S. SUPLEMENTOS ALIMENTARES LTDA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "17633072000179",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "300",
+            "url": "shop30.com.br",
+            "empresa": "JOSE SANTOS AMORIM NETTO",
+            "data_inclusao": "21\/08\/2013",
+            "cnpj_cpf": "11975119000104",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "305",
+            "url": "shopdamassagem.com.br",
+            "empresa": "MARIANE HOPPE LEITE",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "1460573501",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "306",
+            "url": "shopdogugu.com",
+            "empresa": "AGNEW ELETRONICA LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "4748871000149",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "613",
+            "url": "shopdular.com.br",
+            "empresa": "JOSE CAMILO DA SILVA",
+            "data_inclusao": "28\/03\/2017",
+            "cnpj_cpf": "17731640000174",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "408",
+            "url": "shopdynamic.com.br",
+            "empresa": "MARCOS DA SILVA ARA\u00daJO",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "18751739000109",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "584",
+            "url": "shopextramais.com",
+            "empresa": "SHOP EXTRA COMERCIO DIGITAL LTDA - ME",
+            "data_inclusao": "01\/12\/2016",
+            "cnpj_cpf": "20343465000152",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "534",
+            "url": "shopgo.com.br",
+            "empresa": "JOVELINO GAMA ME",
+            "data_inclusao": "19\/04\/2016",
+            "cnpj_cpf": "20776224000105",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "308",
+            "url": "shoplinux.com.br",
+            "empresa": "SHOP LINUX COMERCIAL WIRELESS LTDA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "5172265000190",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "498",
+            "url": "shopmaluko.com.br",
+            "empresa": "ANTONIO SIMAO DOS SANTOS 90125479468",
+            "data_inclusao": "04\/09\/2015",
+            "cnpj_cpf": "19883184000103",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "311",
+            "url": "shoppingdogugu.com.br",
+            "empresa": "AGNEW ELETRONICA LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "4748871000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "312",
+            "url": "shoppingdomagazine.com.br",
+            "empresa": "ALINE JORGE DA SILVA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "17173750000168",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "540",
+            "url": "shoppinggirls.com.br",
+            "empresa": "TATIANE ALMEIDA DE MENEZES",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "61935883453",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "569",
+            "url": "shoppingviracopos.com.br",
+            "empresa": "JOAQUIM DE SOUZA",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "17632444000142",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "541",
+            "url": "shopsecco.com.br",
+            "empresa": "MICHEL AUGUSTO SECCO",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "19356979000163",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "313",
+            "url": "shopvendome.com.br",
+            "empresa": "SIDNEY CINTI JUNIOR ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "11290876000136",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "314",
+            "url": "showdainformatica.com",
+            "empresa": "GLOBAL INFORMATICA LTDA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "60192341000138",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "315",
+            "url": "showdainformatica.com.br",
+            "empresa": "GLOBAL INFORMATICA LTDA",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "60192341000138",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "456",
+            "url": "showdoeletro.com.br",
+            "empresa": "VANDERLEI DE SOUZA PORTO",
+            "data_inclusao": "17\/11\/2014",
+            "cnpj_cpf": "17384128000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "316",
+            "url": "sigaaoferta.com.br",
+            "empresa": "A.A. DOS SANTOS COM. IMP. EXP. LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "10678999000186",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "624",
+            "url": "silvainfoshop.com.br",
+            "empresa": "FRANCISCO JOS\u00c9 DA SILVA FILHO",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "18296948000100",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "578",
+            "url": "smartcentershopping.com.br",
+            "empresa": "PEDRO GONSALVES DE ALCANTARA FORMIGA",
+            "data_inclusao": "10\/11\/2016",
+            "cnpj_cpf": "24559560000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "320",
+            "url": "soaquitem.com.br",
+            "empresa": "AQUITEM SERVI\u00c7OS EIRELI ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "15478170000153",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "321",
+            "url": "socelulares.com.br",
+            "empresa": "JULYCOM COMERCIAL ELETRONICA LTDA ME",
+            "data_inclusao": "21\/08\/2013",
+            "cnpj_cpf": "57197790000164",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "322",
+            "url": "sofretegratis.com",
+            "empresa": "WESLAINE JUSTINA DA SILVA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "-x-",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "516",
+            "url": "solidstore.com.br",
+            "empresa": "FERNANDA NUNES PEREIRA",
+            "data_inclusao": "08\/12\/2015",
+            "cnpj_cpf": "09768724633",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "517",
+            "url": "sonheicomisso.com.br",
+            "empresa": "DIEGO BATISTA BOAVA",
+            "data_inclusao": "08\/12\/2015",
+            "cnpj_cpf": "08154693909",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "470",
+            "url": "soofertaboa.com.br",
+            "empresa": "EVEREST LOJA DE DEPARTAMENTOS EIRELI ME",
+            "data_inclusao": "03\/02\/2015",
+            "cnpj_cpf": "19972673000131",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "556",
+            "url": "souzaeletroshop.com.br",
+            "empresa": "JOAQUIM DE SOUZA CRUZ",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "19611907000115",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "325",
+            "url": "sp-riomudancas.com",
+            "empresa": "SP RIO MUDAN\u00c7AS",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "-x-",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "595",
+            "url": "spardashop.com.br",
+            "empresa": "SPARDA COMERCIAL EIRELI ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "23371260000179",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "326",
+            "url": "splodz.com",
+            "empresa": "MAXPAY INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "6037631000161",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "528",
+            "url": "stareasy.com.br",
+            "empresa": "MARCOS ALVES DE JESUS",
+            "data_inclusao": "14\/03\/2016",
+            "cnpj_cpf": "23674066000162",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "327",
+            "url": "starimports.com.br",
+            "empresa": "CELSO BENJAMIN DE SOUZA ME",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "5509055000145",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "328",
+            "url": "starmakeup.com.br",
+            "empresa": "ANA CARLA SILVA MATOS AMARAL",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "11711863718",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "521",
+            "url": "Stokeletro.com.br",
+            "empresa": "ANDRE BRITO ELETRONICOS EIRELI- ME",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "22206145000186",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "483",
+            "url": "superescolha.com",
+            "empresa": "SUPER ESCOLHA",
+            "data_inclusao": "02\/04\/2015",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "619",
+            "url": "superextraeletro.com.br",
+            "empresa": "JOS\u00c9 MESSIAS BORGES DA SILVA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "22838425000107",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "622",
+            "url": "suplementosninja.com.br",
+            "empresa": "MARIA MOURA DO NASCIMENTO",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "04271075809",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "520",
+            "url": "Suppzfit.com.br",
+            "empresa": "PEDRO EDUARDO POLIDORO",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "16342687846",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "397",
+            "url": "tablet.com.br",
+            "empresa": "EDGE COMUNICA\u00c7\u00c3O E PUBLICIDADE LTDA ME",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "14128231000190",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "333",
+            "url": "tanamaoimportados.com.br",
+            "empresa": "JEFERSON WALTER JANKE",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "4135364918",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "334",
+            "url": "targetdirect.com.br",
+            "empresa": "ALESSANDRO FERREIRA DA SILVA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "13331770000169",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "567",
+            "url": "tcrmoveis.com.br",
+            "empresa": "MOVEIS TCR LTDA - EPP",
+            "data_inclusao": "20\/10\/2016",
+            "cnpj_cpf": "19073895000112",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "560",
+            "url": "tecnoshopping.net.br",
+            "empresa": "J.P.DOS SANTOS SERVI\u00c7OS",
+            "data_inclusao": "27\/09\/2016",
+            "cnpj_cpf": "14915443000117",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "604",
+            "url": "teleofertas.com.br",
+            "empresa": "LIFESHOP COMERCIO VAREJISTA DE COSMETICOS LTDA",
+            "data_inclusao": "06\/02\/2017",
+            "cnpj_cpf": "10914175000168",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "623",
+            "url": "tenasa.com.br",
+            "empresa": "JO\u00c3O BATISTA DA SILVA FERREIRA",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "13535355000127",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "335",
+            "url": "tenismania.com",
+            "empresa": "PLCB COBR E INTER DE NEGOCIOS EIRELI",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "665",
+            "url": "tenisrun.com.br",
+            "empresa": "TENIS RUN CAL\u00c7ADOS",
+            "data_inclusao": "30\/11\/2018",
+            "cnpj_cpf": "72561372000106",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "632",
+            "url": "tenisrunning.com.br",
+            "empresa": "PLCB COBRAN\u00c7A E INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS EIRELI",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "629",
+            "url": "tennisrunning.com.br",
+            "empresa": "PLCB COBRAN\u00c7A E INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS EIRELI",
+            "data_inclusao": "09\/06\/2017",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "336",
+            "url": "territoriodainformaticamg.com.br",
+            "empresa": "TERRITORIO DA INFORMATICA E IMP LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "7447750000155",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "519",
+            "url": "TICKETSRJ.COM",
+            "empresa": "",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "337",
+            "url": "tmania.com",
+            "empresa": "PLCB COBR E INTER DE NEGOCIOS EIRELI",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "18333983000143",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "340",
+            "url": "topveste.com",
+            "empresa": "TOPVESTE",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "X",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "412",
+            "url": "totalclique.com",
+            "empresa": "FLEX TREE IMPORT COM\u00c9RCIO IMPORTA\u00c7\u00c3O LTDA",
+            "data_inclusao": "21\/07\/2014",
+            "cnpj_cpf": "13185338000107",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "342",
+            "url": "tradinginformatica.com.br",
+            "empresa": "HUBERLAN QUEIROZ SILVA- ME",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "17210017000176",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "448",
+            "url": "trevoeletro.com.br",
+            "empresa": "SHOPPING BEST TRENDS COMERCIO ELETRONICO EIRELI ME",
+            "data_inclusao": "10\/10\/2014",
+            "cnpj_cpf": "19955025000177",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "343",
+            "url": "tripulante.com.br",
+            "empresa": "CELSO ADEMIR DE SOUZA SIQUEIRA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "4105045644",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "561",
+            "url": "trivagomoveis.com.br",
+            "empresa": "ANTONIO CARLOS DA SILVA",
+            "data_inclusao": "27\/09\/2016",
+            "cnpj_cpf": "19592843000152",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "345",
+            "url": "tudoeletro.com",
+            "empresa": "MP TUDO ELETR\u00d4NICOS EM GERAL",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "-x-",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "348",
+            "url": "turbofertas.com.br",
+            "empresa": "BLUE FOUNTAIN BRASIL MIDIA COMUNICACAO",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "14587013000113",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "550",
+            "url": "uplimports.com.br",
+            "empresa": "CAIO L\u00daCIO FERREIRA CARVALHO",
+            "data_inclusao": "05\/08\/2016",
+            "cnpj_cpf": "23961060000176",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "593",
+            "url": "usemojave.com.br",
+            "empresa": "08 VESTU\u00c1RIO LTDA ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "19812045000199",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "544",
+            "url": "useperfume.net.br",
+            "empresa": "ANALICE SKRAVONSKI - ME",
+            "data_inclusao": "03\/05\/2016",
+            "cnpj_cpf": "21263873000167",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "350",
+            "url": "usstore.com.br",
+            "empresa": "x",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "x",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "351",
+            "url": "uzzetop.com",
+            "empresa": "WEDER MARQUES DE FARIA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "11622922000157",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "490",
+            "url": "venanimports.com.br",
+            "empresa": "MARCELO VENANCIO MACHADO IMPORTADOS ME",
+            "data_inclusao": "16\/07\/2015",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "633",
+            "url": "vendaanabolizantes.com.br",
+            "empresa": "VENDA ANABOLIZANTES",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "417",
+            "url": "ventausa.com.br",
+            "empresa": "TERESINHA MARIA DE SANTANA ROCHA",
+            "data_inclusao": "01\/09\/2014",
+            "cnpj_cpf": "47447044334",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "356",
+            "url": "viamagazine.com.br",
+            "empresa": "VIA DISTRIBUICAO E COMERCIO LTDA ME",
+            "data_inclusao": "21\/03\/2014",
+            "cnpj_cpf": "14026089000170",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "358",
+            "url": "virtualmegashop.com.br",
+            "empresa": "SILVA E SILVA COM DE INFORMATICA LTDA ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "13575259000102",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "359",
+            "url": "visou.com.br",
+            "empresa": "NATASHA VITORIANO SOUTO",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "11358795754",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "636",
+            "url": "vitaepe.com.br",
+            "empresa": "EFS INTERMEDIACAO DE NEGOCIOS LTDA",
+            "data_inclusao": "10\/08\/2017",
+            "cnpj_cpf": "17904745000188",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "594",
+            "url": "vitishop.com.br",
+            "empresa": "VITIELLO COMERCIAL ATACADISTA EIRELI ME",
+            "data_inclusao": "16\/12\/2016",
+            "cnpj_cpf": "22799930000190",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "360",
+            "url": "vitoriashair.com.br",
+            "empresa": "RUTHINEA DE CARVALHO ME",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "9528429000120",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "659",
+            "url": "vl2b.com.br",
+            "empresa": "V DE L SILVA VL2B - ME",
+            "data_inclusao": "26\/04\/2018",
+            "cnpj_cpf": "07457176000116",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "643",
+            "url": "vocedeapple.com",
+            "empresa": "NACIONAL COBRAN\u00c7AS EIRELI ME",
+            "data_inclusao": "30\/11\/2017",
+            "cnpj_cpf": "11738180000120",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "406",
+            "url": "voceprincesa.com.br",
+            "empresa": "ANDRESSA MARTINS DA SILVA",
+            "data_inclusao": "16\/07\/2014",
+            "cnpj_cpf": "36912375847",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "644",
+            "url": "voltzz.com.br",
+            "empresa": "LUAN MIRANDA",
+            "data_inclusao": "16\/01\/2018",
+            "cnpj_cpf": "37325348800",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "646",
+            "url": "vortexair.com.br",
+            "empresa": "LUAN MIRANDA",
+            "data_inclusao": "16\/01\/2018",
+            "cnpj_cpf": "37325348800",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "531",
+            "url": "vula.com.br",
+            "empresa": "MANUEL FERREIRA DA SILVA FILHO",
+            "data_inclusao": "15\/03\/2016",
+            "cnpj_cpf": "18459311000189",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "481",
+            "url": "wikee.com.br",
+            "empresa": "MARINHO & PASQUINELLI PREST DE SERV COBR LTDA ME",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "18332034000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "482",
+            "url": "wikeeimports.com.br",
+            "empresa": "MARINHO & PASQUINELLI PREST DE SERV COBR LTDA ME",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "18332034000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "480",
+            "url": "wkclub.com.br",
+            "empresa": "MARINHO & PASQUINELLI PREST DE SERV COBR LTDA ME",
+            "data_inclusao": "19\/03\/2015",
+            "cnpj_cpf": "18332034000149",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "442",
+            "url": "wtaimport.com",
+            "empresa": "JACKSON SANTOS DE JESUS",
+            "data_inclusao": "19\/09\/2014",
+            "cnpj_cpf": "19645061000134",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "366",
+            "url": "xeletro.com",
+            "empresa": "TIAGO PIRES MARQUES",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "310945119",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "367",
+            "url": "xinguilingui.com",
+            "empresa": "MAXPAY INTERMEDIA\u00c7\u00c3O DE NEG\u00d3CIOS LTDA",
+            "data_inclusao": "10\/12\/2013",
+            "cnpj_cpf": "6037631000161",
+            "situacao": "1",
+            "motivo": ""
+    },
+    {
+            "id": "526",
+            "url": "zanott.com.br",
+            "empresa": "FELIPE LINO BECKER",
+            "data_inclusao": "04\/02\/2016",
+            "cnpj_cpf": "21948025841",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "369",
+            "url": "zapcel.com.br",
+            "empresa": "V C DE SOUZA PONCE ME",
+            "data_inclusao": "26\/09\/2013",
+            "cnpj_cpf": "17549622000176",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "463",
+            "url": "zioto.com.br",
+            "empresa": "ZIOTO.COM.BR EIRELI ME",
+            "data_inclusao": "11\/12\/2014",
+            "cnpj_cpf": "19717436000124",
+            "situacao": "0",
+            "motivo": ""
+    },
+    {
+            "id": "370",
+            "url": "zuba.com.br",
+            "empresa": "RHFP COMERCIO LTDA",
+            "data_inclusao": "16\/04\/2013",
+            "cnpj_cpf": "13655224000183",
+            "situacao": "0",
+            "motivo": ""
+    }
+  ]
+}

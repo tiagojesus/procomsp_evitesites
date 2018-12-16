@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import Paper from '@material-ui/core/Paper';
 import SiteListPanel from "./sites-list-panel";
 
 export default class SitesPanel extends Component{
     render(){
         return(
-            <section className="App container-fluid mt-3">
+            <Paper>
                 <header>
                     <h1>Evite estes sites</h1>
                 </header>
@@ -14,7 +15,7 @@ export default class SitesPanel extends Component{
                                ordenacaoDirecao={this.props.ordenacaoDirecao}
                                onClick={this.props.onClick}
                 />
-            </section>
+            </Paper>
         );
     }
 }

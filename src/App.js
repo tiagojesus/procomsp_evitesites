@@ -2,9 +2,20 @@ import React, {Component} from 'react';
 import SiteInformacoesApi from './components/sites-informacoes-api';
 import SitesPanel from './components/sites-panel';
 import TopoPanel from "./components/topo-panel";
+import CssBaseline from '@material-ui/core/CssBaseline';
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
+import Typography from '@material-ui/core/Typography';
+import { withStyles } from '@material-ui/core/styles';
 
 import './App.css';
 
+const styles = theme => ({
+    root: {
+        width: '100%',
+    },
+
+});
 
 function ordenaSites(sites, campo, ordenacaoDirecao) {
     return sites.sort((a, b) => {
@@ -79,6 +90,7 @@ class App extends Component {
     render() {
         return (
             <React.Fragment>
+                <CssBaseline />
                 <TopoPanel/>
 
                 <SitesPanel  sites={this.state.sites}
@@ -90,5 +102,4 @@ class App extends Component {
         );
     }
 }
-
-export default App;
+export default withStyles(styles)(App);
